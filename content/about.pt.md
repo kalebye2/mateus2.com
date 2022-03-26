@@ -4,7 +4,7 @@ cover: "porta"
 draft: false
 ---
 
-Sou **Mateus**, um *cientoartista/artistocientista* que escreve um pouquinho.
+Sou **Mateus**, um *cristão cientoartista/artistocientista* que escreve um pouquinho.
 
 Sou sócio da [**River Filmes**](https://riverfilmes.com) e tenho a função de direção técnica e de projetos da área de animação e jogos no geral.
 
