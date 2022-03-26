@@ -1,0 +1,6 @@
+<div>
+	Categorias: |
+	{{ range .GetTerms "categories" }}
+	<a href="{{ .Permalink }}">{{ .Name }}</a> |
+	{{ end }}
+</div>

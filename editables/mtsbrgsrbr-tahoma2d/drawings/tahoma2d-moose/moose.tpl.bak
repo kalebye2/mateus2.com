@@ -1,0 +1,43 @@
+<palette id='1'>
+  
+  <version>
+    71 0 
+  </version>
+  <styles>
+    <style>
+      color_0 3 255 255 255 0 
+    </style>
+    <style>
+      color_1 3 0 0 0 255 
+    </style>
+    <style>
+      color_2 3 245 130 31 255 
+    </style>
+    <style>
+      color_3 3 230 7 140 255 
+    </style>
+    <style>
+      color_4 3 192 46 145 255 
+    </style>
+    <style>
+      color_5 3 255 255 255 255 
+    </style>
+    <style>
+      color_6 3 158 87 39 255 
+    </style>
+    </styles>
+  <stylepages>
+    <page>
+      <name>
+        colors 
+      </name>
+      <indices>
+        0 1 2 3 4 5 6 
+      </indices>
+      </page>
+    </stylepages>
+  <shortcuts>
+    -1 0 1 2 3 4 5 6 -1 -1 
+  </shortcuts>
+  
+</palette>

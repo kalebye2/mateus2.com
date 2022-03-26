@@ -1,0 +1,14 @@
+<nav class="nav-lang">
+	{{ range .Site.Home.AllTranslations }}
+		{{ $lang := .Site.Language.Lang }}
+		{{ if $lang }}
+		<a href="{{ .Permalink }}">
+			<img src="/img/icon/{{ $lang }}.png" class="icon{{ if eq $lang $.Site.Language.Lang}} icon-lang-selected {{ end }}">
+			<!--
+			{{ .Site.Language.Lang }}
+			-->
+		</a>
+		{{ end }}
+	{{ end }}
+
+</nav>

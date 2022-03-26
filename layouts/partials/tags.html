@@ -1,0 +1,6 @@
+<div>
+	Tags: |
+	{{ range .GetTerms "tags"}}
+	<a href="{{ .Permalink }}">{{ .Name }}</a> |
+	{{ end }}
+</div>

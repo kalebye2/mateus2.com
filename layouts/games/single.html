@@ -1,0 +1,31 @@
+{{ define "main" }}
+
+{{ partial "cover-content.html" . }}
+
+{{ with .Param "itchio" }}
+<a href="{{ . }}" target="_blank">
+	<h1 class="btn-play-game">Jogar</h1>
+</a>
+{{ end }}
+
+{{ partial "categories.html" . }}
+{{ partial "softwares.html" . }}
+	<hr>
+
+
+	<div style="text-align:center;">
+	{{ if .Param "itch" }}
+		{{ partial "itch" . }}
+	{{ end }}
+
+	{{ with .Param "github" }}
+	<a href="https://github.com/{{ . }}" target="_blank">
+		<img src="/img/github.png" style="max-height:167px;">
+	</a>
+	{{ end }}
+	</div>
+
+	<hr>
+	<!-- pages navigator -->
+	{{ partial "site-pages-navigator.html" . }}
+{{ end }}

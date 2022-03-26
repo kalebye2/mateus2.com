@@ -1,0 +1,23 @@
+{{ define "main" }}
+
+<h1 style="text-align:center">{{ .Title }}</h1>
+<span style="text-align:center">{{ .Content }}</span>
+<hr>
+
+<ul class="blog-list">
+{{ range .Pages }}
+<li><a href="{{ .Permalink }}"><strong style="font-size:1.4em;">{{ .Title }}</strong> - <span style="font-size:.8em;color:var(--subtitle-color);">{{ dateFormat ":date_medium" .Date }}</span></a></li>
+{{ end }}
+</ul>
+
+<h2>Tags</h2>
+<ul>
+{{ range $key, $value := .Site.Taxonomies }}
+	{{ if eq $key "tags" }}
+		{{ range $value }}
+		<li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
+		{{ end }}
+	{{ end }}
+{{ end }}
+</ul>
+{{ end }}

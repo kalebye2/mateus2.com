@@ -1,0 +1,17 @@
+<nav class="pages grid-3">
+	<span>
+	{{ with .PrevInSection }}
+		<a href="{{ .Permalink }}">
+			<img class="prev-next-img" src="/img/arrow_l.png">
+		</a>
+	{{ end }}
+	</span>
+	<span></span>
+	<span style="text-align:right;">
+	{{ with .NextInSection }}
+		<a href="{{ .Permalink }}">
+			<img class="prev-next-img" src="/img/arrow_r.png">
+		</a>
+	{{ end }}
+	</span>
+</nav>

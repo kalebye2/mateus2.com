@@ -1,0 +1,6 @@
+<div>
+	Softwares: |
+	{{ range .GetTerms "softwares"}}
+	<a href="{{ .Permalink }}">{{ .Name }}</a> |
+	{{ end }}
+</div>

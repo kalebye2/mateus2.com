@@ -1,0 +1,14 @@
+<div class="grid-3 navmenu">
+	{{ $currentPage := . }}
+	{{ range .Site.Menus.main }}
+	{{ $u := trim .URL "/" }}
+		{{ if not (or (eq .URL "/") (eq .URL "/about")) }}
+		<a class="grid-item navmenu-item {{ $u }}" href="{{ .URL }}">
+			<!--
+				<img class="nav-image" src="/img/menu/{{ $u }}.png" alt="{{ .Name }}" title="{{ .Name }}" /> <br />
+			-->
+					{{ .Name }}
+			</a>
+		{{ end }}
+	{{ end }}
+</div>

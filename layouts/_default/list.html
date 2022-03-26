@@ -1,0 +1,19 @@
+{{ define "main" }}
+	<h1>{{ .Title | title }}</h1>
+	{{ .Content }}
+	<hr>
+	<div class="grid-3">
+		{{ range .Pages }}
+		<div class="grid-item cover">
+			<a href="{{ .Permalink }}">
+				{{ $c := .Param "cover" }}
+				{{ if not $c }}
+					{{ $c = "default"}}
+				{{ end }}
+				<img class="cover-img" alt="{{ .Title }} cover" src="/img/cover/{{ $c }}.png">
+				<div class="cover-text">{{ .Title }}</div>
+			</a>
+		</div>
+		{{ end }}
+	</div>
+{{ end }}

@@ -1,0 +1,20 @@
+{{ define "main" }}
+	{{ if .Param "yt" }}
+		<!-- youtube video -->
+		{{ partial "yt" . }}
+	{{ end }} <br /> <br />
+
+	{{ partial "categories.html" . }}
+
+	{{ partial "softwares.html" . }}
+
+	<hr>
+
+	{{ partial "cover-content.html" . }}
+
+	{{ partial "prev-next.html" . }}
+
+	<hr>
+	<!-- pages navigator -->
+	{{ partial "site-pages-navigator.html" . }}
+{{ end }}

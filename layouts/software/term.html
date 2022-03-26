@@ -1,0 +1,27 @@
+{{ define "main" }}
+
+	{{/* site */}}
+	{{ $site := .Param "site" }}
+	{{ if not $site }}
+		{{ $site = "#" }}
+	{{ end }}
+	<h1 class="term-list-h1">Feito com {{ .Title }}</h1>
+	{{ partial "pages-navigator.html" . }}
+	</div>
+	<hr>
+<div class="grid-2 content">
+	<div class="grid-item">
+	{{ $c := .Param "cover" }}
+	{{ if not $c }}
+		{{ $c = "default"}}
+	{{ end }}
+	<a href="{{ $site }}" target="_blank"><img class="img-taxonomy" src="/img/cover/{{ $c }}.png"></a>
+	</div>
+	<div class="grid-item">
+		<a href="{{ $site }}" target="_blank"><h1>{{ .Title }}</h1></a>
+		{{ .Content }}
+	</div>
+</div>
+	</div>
+<a href="/softwares/"><h1 style="text-align:center;">Voltar para Softwares</h1></a>
+{{ end }}

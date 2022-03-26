@@ -1,0 +1,19 @@
+<div class="sidenav">
+	<ul>
+	{{ range $key, $value := .Site.Taxonomies }}
+	{{ if not (eq $key "categories") }}
+	<li style="font-weight:bold;"><a href="{{ "/" | relLangURL }}{{ $key | urlize}}">{{ $key }}</a></li>
+		<ul>
+			{{ range $value }}
+			<li style="font-size:.8em;"><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
+			{{ end }}
+		</ul>
+		{{ end }}
+	{{ end }}
+	</ul>
+	{{ range .AlternativeOutputFormats -}}
+		{{ printf `<a target="_blank" rel="%s" type="%s" href="%s" title="%s">
+	<img src="/img/icon/rss.png" style="max-width=16px;"> RSS
+		</a>` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+	{{ end }}
+</div>

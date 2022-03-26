@@ -1,0 +1,34 @@
+{{ define "main" }}
+
+{{ $c := .Param "cover" }}
+
+<h1>{{ .Title }}</h1>
+<h3 class="subtitle">{{ dateFormat ":date_medium" .Date }}</h3>
+<p style="font-size:.7em;">Tempo de leitura: aprox. {{ .ReadingTime }}min</p>
+
+{{ if $c }}
+<img src="/img/cover/{{ $c }}.png" style="text-align:center;max-width:100%;">
+{{ end }}
+
+<div class="toc">
+<h2>Sumário</h2>
+<hr>
+{{ .TableOfContents }}
+</div>
+<span class="blog-content">
+{{ .Content }}
+</span>
+
+{{ partial "tags.html" . }}
+{{ partial "prev-next.html" . }}
+<hr>
+
+{{ $p := . }}
+
+{{ range .Site.Pages }}
+	{{ if and (not (eq $p .)) (eq .Type $p.Type) (.IsPage)}}
+		<a href="{{ .Permalink }}">{{ .Title }}</a>
+	{{ end }}
+{{ end }}
+
+{{ end }}

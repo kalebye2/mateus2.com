@@ -1,0 +1,10 @@
+<nav class="navbar">
+	<span class="nav-bg">
+	</span>
+	{{ $currentPage := . }}
+	{{ range .Site.Menus.main }}
+		<a class="nav-item" href="{{ .URL | absLangURL}}" title="{{ .Title }}">{{ .Name }}</a>
+	{{ end }}
+	<a class="nav-item" href="mailto:kalebye2@protonmail.com" target="_blank"><strong>Contato</strong></a>
+	{{/* {{ partial "lang_select.html" . }} */}}
+</nav>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
+   sodipodi:docname="flags.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.32"
+     inkscape:cx="407.8125"
+     inkscape:cy="242.1875"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3296"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Usar a regra de preenchimento par ou ímpar na caixa de diálogo &lt;b&gt;preenchimento e contorno&lt;/b&gt; se nenhum resultado nivelar após converter o clipe em caminhos." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3301">
+      <rect
+         style="display:block;fill:#1b21ba;fill-opacity:1;stroke:none;stroke-width:3.38058;paint-order:markers stroke fill"
+         id="rect3303"
+         width="24.245413"
+         height="22.748245"
+         x="74.283272"
+         y="-0.44173175"
+         transform="rotate(15)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5475">
+      <circle
+         style="fill:#c6ca98;stroke:none;stroke-width:3.09999;paint-order:markers stroke fill"
+         id="circle5477"
+         cx="100.30206"
+         cy="28.805431"
+         r="27.110176" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="brazil"
+       inkscape:export-filename="../static/img/icon/brazil.png"
+       inkscape:export-xdpi="29.981363"
+       inkscape:export-ydpi="29.981363">
+      <circle
+         style="fill:#64a919;stroke:none;stroke-width:3.09999;paint-order:markers stroke fill;fill-opacity:1"
+         id="path870"
+         cx="35.098099"
+         cy="28.805429"
+         r="27.110176" />
+      <rect
+         style="fill:#f7db3b;fill-opacity:1;stroke:none;stroke-width:3.17415;paint-order:markers stroke fill"
+         id="rect974"
+         width="31.946695"
+         height="32.542854"
+         x="-62.233349"
+         y="-17.865435"
+         transform="matrix(-0.78554011,-0.61881075,0.77853211,-0.62760477,0,0)" />
+      <circle
+         style="fill:#1a28a0;fill-opacity:1;stroke:none;stroke-width:1.22236;paint-order:markers stroke fill"
+         id="circle1056"
+         cx="35.098099"
+         cy="28.805429"
+         r="10.689851" />
+    </g>
+    <g
+       id="usa"
+       transform="translate(4.4705144)"
+       inkscape:export-filename="../static/img/icon/usa.png"
+       inkscape:export-xdpi="29.981363"
+       inkscape:export-ydpi="29.981363">
+      <circle
+         style="fill:#fcf9f8;fill-opacity:1;stroke:none;stroke-width:3.09999;paint-order:markers stroke fill"
+         id="circle1328"
+         cx="100.81654"
+         cy="28.805429"
+         r="27.110176" />
+      <g
+         id="g4028"
+         transform="translate(0.51448059)"
+         clip-path="url(#clipPath5475)">
+        <rect
+           style="fill:#e1111f;fill-opacity:1;stroke:none;stroke-width:3.15364;paint-order:markers stroke fill"
+           id="rect3340"
+           width="57.794338"
+           height="3.2441001"
+           x="71.404892"
+           y="1.6952534" />
+        <rect
+           style="fill:#e1111f;fill-opacity:1;stroke:none;stroke-width:3.15364;paint-order:markers stroke fill"
+           id="rect3483"
+           width="57.794338"
+           height="3.2441001"
+           x="71.404892"
+           y="10.191295" />
+        <rect
+           style="fill:#e1111f;fill-opacity:1;stroke:none;stroke-width:3.15364;paint-order:markers stroke fill"
+           id="rect3485"
+           width="57.794338"
+           height="3.2441001"
+           x="71.404892"
+           y="18.687336" />
+        <rect
+           style="fill:#e1111f;fill-opacity:1;stroke:none;stroke-width:3.15364;paint-order:markers stroke fill"
+           id="rect3487"
+           width="57.794338"
+           height="3.2441001"
+           x="71.404892"
+           y="27.183378" />
+        <rect
+           style="fill:#e1111f;fill-opacity:1;stroke:none;stroke-width:3.15364;paint-order:markers stroke fill"
+           id="rect3489"
+           width="57.794338"
+           height="3.2441001"
+           x="71.404892"
+           y="35.67942" />
+        <rect
+           style="fill:#e1111f;fill-opacity:1;stroke:none;stroke-width:3.15364;paint-order:markers stroke fill"
+           id="rect3491"
+           width="57.794338"
+           height="3.2441001"
+           x="71.404892"
+           y="44.175461" />
+        <rect
+           style="fill:#e1111f;fill-opacity:1;stroke:none;stroke-width:3.15364;paint-order:markers stroke fill"
+           id="rect3493"
+           width="57.794338"
+           height="3.2441001"
+           x="71.404892"
+           y="52.671501" />
+      </g>
+      <circle
+         style="fill:#0a38bc;fill-opacity:1;stroke:none;stroke-width:3.09999;paint-order:markers stroke fill"
+         id="circle2948"
+         transform="rotate(-15)"
+         clip-path="url(#clipPath3301)"
+         cx="89.925911"
+         cy="53.917149"
+         r="27.110176" />
+    </g>
+    <circle
+       style="fill:#564d44;fill-opacity:1;stroke:none;stroke-width:3.09999;paint-order:markers stroke fill"
+       id="circle6090"
+       cx="175.47603"
+       cy="28.805429"
+       r="27.110176" />
+    <circle
+       style="fill:#564d44;fill-opacity:1;stroke:none;stroke-width:3.09999;paint-order:markers stroke fill"
+       id="base"
+       cx="175.47603"
+       cy="-39.765438"
+       r="27.110176" />
+  </g>
+</svg>

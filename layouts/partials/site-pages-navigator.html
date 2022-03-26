@@ -1,0 +1,17 @@
+{{ $p := . }}
+<div class="grid-3">
+	{{ range .Site.Pages }}
+	{{ if and (not (eq $p .)) (eq .Type $p.Type) (.IsPage)}}
+	<div class="grid-item cover">
+		<a href="{{ .Permalink }}">
+			{{ $c := .Param "cover" }}
+			{{ if not $c }}
+				{{ $c = "default"}}
+			{{ end }}
+			<img class="cover-img" alt="{{ .Title }} cover" src="/img/cover/{{ $c }}.png">
+			<div class="cover-text">{{ .Title }}</div>
+		</a>
+	</div>
+	{{ end }}
+{{ end }}
+</div>
