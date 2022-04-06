@@ -1,5 +1,6 @@
+{{ $sentences := index $.Site.Data.sentences $.Site.Language.Lang }}
 <div>
-	Categorias: |
+	{{ $sentences.categories }}: |
 	{{ range .GetTerms "categories" }}
 	<a href="{{ .Permalink }}">{{ .Name }}</a> |
 	{{ end }}

@@ -2,9 +2,11 @@
 
 {{ partial "cover-content.html" . }}
 
+{{ $sentences := index $.Site.Data.sentences $.Site.Language.Lang }}
+
 {{ with .Param "gameurl" }}
 <a href="{{ . }}" target="_blank">
-	<h1 class="btn-play-game">Jogar</h1>
+	<h1 class="btn-play-game">{{ $sentences.game_play }}</h1>
 </a>
 {{ end }}
 
