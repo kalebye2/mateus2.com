@@ -3,7 +3,9 @@ title: "Site Novo"
 date: 2022-03-24T00:03:59-03:00
 author: ["Mateus"]
 draft: false
-cover: ""
+cover: "site-novo"
+cover-from-title: "Pixabay"
+cover-from-site: "https://pixabay.com/illustrations/web-design-user-interface-website-3411373/"
 slug: ""
 description: ""
 tags: ["site", "pessoal"]

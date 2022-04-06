@@ -1,0 +1,9 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<hr>
+<ul class="blog-list">
+{{ range .Pages }}
+	<li><a href="{{ .Permalink }}"><strong style="font-size:1.4em;">{{ .Title }}</strong> - <span style="font-size:.8em;color:var(--subtitle-color);">{{ dateFormat ":date_medium" .Date }}</span></a></li>
+{{ end }}
+</ul>
+{{ end }}

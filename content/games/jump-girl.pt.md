@@ -6,7 +6,7 @@ draft: false
 client: ""
 cover: "jump-girl"
 itch: "965157"
-itchio: "https://kalebye2.itch.io/jump-girl"
+gameurl: "https://kalebye2.itch.io/jump-girl"
 github: "kalebye2/godot-wild-jam-31"
 yt: ""
 vimeo: ""

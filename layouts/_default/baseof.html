@@ -25,22 +25,26 @@
 		<p style="text-shadow:3px 3px 10px black;">{{ .Description }}</p>
 		<div style="height:33%"></div>
 	</div>
+	<hr>
 	<!-- main menu navigator -->
 	<div class="main-nav">
 		{{ partial "main-pages.html" . }}
 	</div>
 	{{ end }}
 
-	<!-- sidebar -->
-	{{ partial "sidenav.html" . }}
-
-	<!-- content -->
-	<div class="content">
-		{{ block "main" . }}{{ end }}
+	<div style="display:flex;">
+		<!-- sidebar -->
+		{{ if not .IsHome }}
+			{{ partial "sidenav.html" . }}
+		{{ end }}
+			
+		<!-- content -->
+		<div class="content">
+			{{ block "main" . }}{{ end }}
+		</div>
 	</div>
 
 	<hr>
-
 	<div class="footer">
 		{{ block "footer" . }}{{ end }}
 		{{ partial "footer.html" . }}

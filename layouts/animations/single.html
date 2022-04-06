@@ -1,7 +1,9 @@
 {{ define "main" }}
 	{{ if .Param "yt" }}
 		<!-- youtube video -->
+	<div style="max-height:500px;">
 		{{ partial "yt" . }}
+	</div>
 	{{ end }} <br /> <br />
 
 	{{ partial "categories.html" . }}

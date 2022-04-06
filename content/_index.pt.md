@@ -2,13 +2,13 @@
 title: "Home"
 date: 2022-03-15T22:44:11-03:00
 draft: false
-description: "Um local onde se vê animações, jogos, músicas, conteúdos artísticos no geral, um pouco de ciência e filosofia e mais o resto"
+description: "Um local onde se vê animações, jogos, conteúdos artísticos no geral, um pouco de ciência e filosofia e mais o resto"
 keywords: ["mateus", "site", "website", "portfolio", "blog"]
 ---
 
 ## Bem-vindo!
 
-{{< image src="/img/porta.jpg" style="float:right;margin:2em;max-height:20rem;" >}}
+{{< image src="/img/porta.jpg" style="float:left;max-height:50vh;max-width:50vw;margin:2em;border-radius:1rem;" >}}
 
 Um artista?
 Um cientista?

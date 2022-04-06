@@ -35,7 +35,7 @@
 	--darker-gray: #101010;
 	
 	--lighter-purple: #9d7092;
-	--light-purple: #b3469;
+	--light-purple: #b34693;
 	--medium-purple: #860b63;
 	--dark-purple: #3e0e2f;
 	--darker-purple: #270521;
@@ -178,8 +178,7 @@ h1, h2, h3, h4, h5, h6 {
 .navbar {
 	background: var(--nav-bg);
 	position: relative;
-	width: 100%;
-	margin: 0;
+	margin: 0px;
 	padding: 1rem;
 }
 
@@ -217,16 +216,17 @@ h1, h2, h3, h4, h5, h6 {
 
 .landing h1 {
 	font-size: 4em;
-	cursor: alias;
+	cursor: none;
 	text-align: center;
 	margin: 1em;
 	padding: auto;
 
-	transition: font-size 500ms ease-in-out;
+	transition: 500ms ease-in-out;
 }
 
 .landing h1:hover {
-	font-size: 4.5em;
+	/*font-size: 4.5em;*/
+	opacity: 0;
 }
 
 .landing p {
@@ -248,28 +248,33 @@ h1, h2, h3, h4, h5, h6 {
 
 .link-icon {
 	opacity: 50%;
+	transform: scale(1);
 
-	transition: opacity 500ms ease-in-out;
+	transition: opacity 500ms ease-in-out,
+			transform 200ms ease-out;
 }
 
 .link-icon:hover{
 	opacity: 1;
+	transform: scale(1.1);
 }
 
 
 /* content */
 .content {
 	/*text-indent: 2em;*/
+	overflow: hidden;
 	padding: 4em;
 	min-height: 50%;
 	padding-top: 2em;
-	margin-left: 20%;
 	color: var(--color);
+	width: clamp(45ch, 100%, 75ch);
 }
 
 
 /* footer */
 .footer {
+	position: relative;
 	text-align:center;
 	padding: 1em;
 }
@@ -306,20 +311,26 @@ h1, h2, h3, h4, h5, h6 {
 .sidenav {
 	padding: 2rem;
 	max-width: 20%;
-	z-index: 1;
-	position: absolute;
+	position: relative;
+	display: inline-block;
 	background-color: var(--nav-bg);
 }
 
 
 .toc {
-	text-align: center;
-	border: 1px solid var(--subtitle-color);
-	border-radius: 2em;
+	border: 1px solid var(--color);
+	margin: 2ch;
+	position: relative;
 	padding: 1em;
 }
+.toc ul {
+	list-style-type: number;	
+}
 
-
+.blog-content {
+	max-width: 75ch;
+	text-align: justify;
+}
 .blog-content p {
 	text-indent: 3em;
 }
@@ -353,6 +364,22 @@ h1, h2, h3, h4, h5, h6 {
 */
 
 
+.tag {
+	margin: 1px;
+	padding: .5em;
+	border-radius: .3em;
+	display: inline-block;
+	color: var(--nav-bg);
+
+	transition: 320ms ease-out;
+}
+
+.tag:hover {
+	color: var(--a-hover);
+	background-color: var(--nav-bg);
+	transform: scale(1.1);
+}
+
 .cover {
 	border-radius: 1em;
 	position: relative;
@@ -365,6 +392,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .cover:hover .cover-img {
 	opacity: .5;
+	transform: scale(1.1);
 }
 
 .cover-text {
@@ -390,17 +418,19 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navmenu {
-	height: auto;
-	max-height: 400px;
+	position: relative;
+	overflow: hidden;
+	margin: 0px;
 }
 
 .navmenu-item {
+	width: 100vw;
 	color: var(--color);
-	padding: 1em;
 	filter: brightness(50%);
-	border-radius: 0px 0px 20px 20px;
+	overflow: hidden;
 
-	transition: filter 200ms ease-in-out;
+	transition: filter 200ms ease-in-out,
+			transform 300ms ease-out;
 }
 
 .navmenu-item:hover {
@@ -409,8 +439,20 @@ h1, h2, h3, h4, h5, h6 {
 	filter: brightness(100%);
 }
 
+.navmenu-item h1 {
+	text-align: center;
+	text-shadow: 3px 3px 10px black;
+}
+
 .nav-image {
-	display: inline;
+	margin: 0px;
+	min-width: 100vw;
+	min-height: 100vh;
+	position: absolute;
+	z-index: -1;
+	filter: brightness(50%);
+
+	transition: filter 500ms ease-in-out;
 }
 
 
@@ -438,8 +480,12 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .blog-list {
-	text-align: center;
+	text-align: left;
 	padding-left: 0px;
+}
+.blog-img {
+	overflow: hidden;
+	max-height: 50vh;
 }
 
 .img-taxonomy {
@@ -448,6 +494,12 @@ h1, h2, h3, h4, h5, h6 {
 	max-height:100%;
 	display:inline;
 	margin:2rem;
+	transform: scale(1);
+
+	transition: 200ms ease-out;
+}
+.img-taxonomy:hover {
+	transform: scale(1.1);
 }
 
 
@@ -470,7 +522,8 @@ h1, h2, h3, h4, h5, h6 {
 	background-color: var(--nav-bg);
 	padding: 1em;
 	color: var(--color);
-	font-size: 2em;
+	font-size: 1.3em;
+	border: 1px solid var(--color);
 	position: static;
 	border-radius: 1em;
 
@@ -479,10 +532,23 @@ h1, h2, h3, h4, h5, h6 {
 
 .btn-play-game:hover {
 	background-color: var(--nav-games-bg);
+	transform: scale(1.1);
 }
 
 /* rewrites for small screens */
 @media screen and (max-width: 700px) {
+	body {
+		font-size: 1em;
+	}
+
+	.content {
+		margin: 5%;
+		padding: 1em;
+	}
+	.content p {
+		max-width: 75ch;
+	}
+
 	.sidenav {
 		display: none;
 	}
@@ -506,11 +572,12 @@ h1, h2, h3, h4, h5, h6 {
 
 	.landing h1 {
 		font-size: 3em;
-		cursor: pointer;
+		cursor: alias;
 	}
 
 	.landing h1:hover {
 		font-size: 3.3em;
+		opacity: 1;
 	}
 
 	.landing p {
@@ -521,6 +588,14 @@ h1, h2, h3, h4, h5, h6 {
 
 	.landing-video {
 		display: none;
+	}
+
+	.prev-next-img {
+		height: 60px;
+	}
+
+	.prev-next-img:hover {
+		height: 64px;
 	}
 }
 

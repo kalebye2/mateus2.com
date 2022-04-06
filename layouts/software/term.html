@@ -1,5 +1,5 @@
 {{ define "main" }}
-
+<div>
 	{{/* site */}}
 	{{ $site := .Param "site" }}
 	{{ if not $site }}
@@ -22,6 +22,7 @@
 		{{ .Content }}
 	</div>
 </div>
-	</div>
+<div>
 <a href="/softwares/"><h1 style="text-align:center;">Voltar para Softwares</h1></a>
+</div>
 {{ end }}

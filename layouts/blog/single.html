@@ -1,34 +1,47 @@
 {{ define "main" }}
 
 {{ $c := .Param "cover" }}
+{{ $ct := .Param "cover-from-title" }}
+{{ $cs := .Param "cover-from-site" }}
 
 <h1>{{ .Title }}</h1>
 <h3 class="subtitle">{{ dateFormat ":date_medium" .Date }}</h3>
 <p style="font-size:.7em;">Tempo de leitura: aprox. {{ .ReadingTime }}min</p>
 
 {{ if $c }}
-<img src="/img/cover/{{ $c }}.png" style="text-align:center;max-width:100%;">
+<div class="blog-img">
+<img src="/img/cover/{{ $c }}.jpg" style="display:flex;width:100%;">
+</div>
+{{ end }}
+{{ if and $ct $cs }}
+<div style="position:static;font-size:.7rem;text-align:right;z-index:1;bottom:10px;right:5px;background-color:var(--medium-green);padding:.5em;"><a href="{{ $cs }}" target="_blank" style="color:white;">{{ $ct }}</a></div>
 {{ end }}
 
-<div class="toc">
-<h2>Sumário</h2>
-<hr>
-{{ .TableOfContents }}
+<div class="blog-content">
+	{{ .Content }}
+	<hr>
 </div>
-<span class="blog-content">
-{{ .Content }}
-</span>
 
+	<div class="toc">
+		<p>Sumário</p>
+		{{ .TableOfContents }}
+	</div>
+<hr>
 {{ partial "tags.html" . }}
+<hr>
 {{ partial "prev-next.html" . }}
 <hr>
 
 {{ $p := . }}
 
+{{/*
 {{ range .Site.Pages }}
 	{{ if and (not (eq $p .)) (eq .Type $p.Type) (.IsPage)}}
 		<a href="{{ .Permalink }}">{{ .Title }}</a>
 	{{ end }}
 {{ end }}
+*/}}
+
+<a href="/{{ .Section }}"><h3 style="text-align:center;">Voltar a {{ .Section | title }}</h3></a>
 
 {{ end }}
