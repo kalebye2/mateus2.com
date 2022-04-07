@@ -1,0 +1,59 @@
+baseURL: "/"
+title: "Mateus"
+enableRobotsTXT: true
+
+defaultContentLanguage: "pt"
+
+# languages
+languages:
+        pt:
+                title: "Site de Mateus"
+                weight: 1
+                menu:
+                        main:
+                                - name: "Home"
+                                  url: "/"
+                                  weight: 1
+                                - name: "Animações"
+                                  url: "/animations"
+                                  weight: 2
+                                - name: "Jogos"
+                                  url: "/games"
+                                  weight: 3
+                                  #- name: "Música"
+                                  #url: "/music"
+                                  #weight: 4
+                                - name: "Blog"
+                                  url: "/blog"
+                                  weight: 5
+                                - name: "Sobre"
+                                  url: "/about"
+                                  weight: 999
+        en:
+                title: "Mateus' Site"
+                weight: 2
+                menu:
+                        main:
+                                - name: "Home"
+                                  url: "/"
+                                  weight: 1
+                                - name: "Animations"
+                                  url: "/animations"
+                                  weight: 2
+                                - name: "Games"
+                                  url: "/games"
+                                  weight: 3
+                                  #- name: "Music"
+                                  #url: "/music"
+                                  #weight: 4
+                                - name: "Blog"
+                                  url: "/blog"
+                                  weight: 5
+                                - name: "About"
+                                  url: "/about"
+                                  weight: 999
+
+taxonomies:
+        tag: "tags"
+        category: "categories"
+        software: "softwares"
