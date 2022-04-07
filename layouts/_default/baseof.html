@@ -15,21 +15,7 @@
 	</div>
 
 	{{ if .IsHome }}
-	<div class="landing">
-		<img class="landing-image" src="/video/portfolio_720@24.jpg">
-		<video class="landing-video" autoplay loop muted poster="/video/portfolio_720@24.jpg">
-			<source src="/video/portfolio_720@24.mp4" type="video/mp4">
-		</video>
-		<div style="height:33%"></div>
-		<h1 style="text-shadow:3px 3px 10px black;">{{ .Site.Title }}</h1>
-		<p style="text-shadow:3px 3px 10px black;">{{ .Description }}</p>
-		<div style="height:33%"></div>
-	</div>
-	<hr>
-	<!-- main menu navigator -->
-	<div class="main-nav">
-		{{ partial "main-pages.html" . }}
-	</div>
+		{{ partial "home-banner.html" . }}
 	{{ end }}
 
 	<div style="display:flex;">
