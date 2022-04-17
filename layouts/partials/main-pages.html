@@ -3,7 +3,7 @@
 	{{ range .Site.Menus.main }}
 	{{ $u := trim .URL "/" }}
 		{{ if not (or (eq .URL "/") (eq .URL "/about")) }}
-		<a href="{{ .URL }}">
+		<a href="{{ .URL | relLangURL }}">
 			<div class="navmenu-item {{ $u }}">
 				<img class="nav-image" src="/img/menu/{{ $u }}.png" alt="{{ .Name }}" title="{{ .Name }}" />
 				<h1>{{ .Name }}</h1>
