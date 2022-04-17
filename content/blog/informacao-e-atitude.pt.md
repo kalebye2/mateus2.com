@@ -2,7 +2,7 @@
 title: "Informação e Atitude"
 date: 2022-04-15T00:12:45-03:00
 author: [""]
-draft: false
+draft: true
 cover: ""
 cover-from-title: ""
 cover-from-site: ""
