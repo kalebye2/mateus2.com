@@ -2,5 +2,5 @@
 title: "Softwares I use"
 ---
 
-Esta é a lista dos softwares que eu uso nos meus trabalhos.
-São também os softwares que mais tenho familiaridade para a produção dos meus materiais.
+This is the list of the softwares I use in my jobs.
+These are also the softwares I am more familiar with to make my materials.
