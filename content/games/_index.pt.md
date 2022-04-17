@@ -7,7 +7,7 @@ description: "Jogos de Mateus Borges Ribeiro, podendo ser jogos eletrônicos, de
 
 > Jogos são uma parte fundamental da vida humana [...]
 >
-> -- Christ Crawford em *A arte do design de jogos de computador*
+> -- Chris Crawford em *A arte do design de jogos de computador*
 
 A ideia de lidar com um desafio e superá-lo é algo que sempre acompanhou a humanidade.
 E os jogos são uma forma de trazer essa realidade para um contexto menos hostil do que os desafios possíveis para a humanidade como lidar com a fome, com a guerra ou com outras misérias.

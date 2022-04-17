@@ -32,6 +32,6 @@ Se eu montar um quebra-cabeças difícil e ficar feliz por isso eu posso postar 
 Se eu quiser colocar um "lorem ipsum" toda semana eu coloco.
 É claro, mantendo o profissionalismo de quem está mandando este site para quem pode contratar, indicar à contratação ou - quem sabe - pelo menos ficar um pouco mais alegre ao visitar este lugar.
 
-Fique livre para ver o que tenho para mostrar e, caso deseje, pode também entrar em [contato](mailto:kalebye2@protonmail.com) comigo para conversar.
+Fique livre para ver o que tenho para mostrar e, caso deseje, pode também entrar em [contato](mailto:kalebye2@proton.me) comigo para conversar.
 Aproveite a ideia!
 

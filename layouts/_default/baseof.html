@@ -30,6 +30,24 @@
 		</div>
 	</div>
 
+	{{ if .IsHome }}
+		<div class="navmenu">
+		{{ $currentPage := . }}
+		{{ range .Site.Menus.main }}
+		{{ $u := trim .URL "/" }}
+			{{ if not (or (eq .URL "/") (eq .URL "/about")) }}
+				<a href="{{ .URL }}">
+				<div class="navmenu-item {{ $u }}">
+					<img class="nav-image" src="/img/menu/{{ $u }}.png" alt="{{ .Name }}" title="{{ .Name }}" />
+					<h1>{{ .Name }}</h1>
+				</div>
+				</a>
+			{{ end }}
+		</div>
+	{{ end }}
+</div>
+		</div>
+	{{ end }}
 	<hr>
 	<div class="footer">
 		{{ block "footer" . }}{{ end }}

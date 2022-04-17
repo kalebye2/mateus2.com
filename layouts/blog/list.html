@@ -12,10 +12,19 @@
 
 <h2>Tags</h2>
 <ul>
+	{{ $bg_color := shuffle (slice "red" "green" "blue" "purple" "orange" "yellow") }}
+	{{ $i := 0 }}
+	{{ $p := 0 }}
 {{ range $key, $value := .Site.Taxonomies }}
 	{{ if eq $key "tags" }}
+		{{ $p = len $key }}
 		{{ range $value }}
-		<li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
+			<a href="{{ .Page.Permalink }}">
+				<span class="tag" style="background-color:var(--dark-{{ index $bg_color $i }});color:var(--color);">
+				{{ .Page.Title }}
+				</span>
+			</a>
+		{{ $i = mod (add $i 1) $p }}
 		{{ end }}
 	{{ end }}
 {{ end }}

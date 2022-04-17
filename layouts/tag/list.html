@@ -2,6 +2,7 @@
 
 {{/* variables */}}
 {{ $bg_color := shuffle (slice "red" "green" "blue" "purple" "orange" "yellow") }}
+{{ $bg_i := len $bg_color }}
 
 <h1>{{ .Title }}</h2>
 <hr>
@@ -10,12 +11,12 @@
 {{ $p := len .Pages }}
 {{ range .Pages }}
 <a href="{{ .Permalink }}">
-	<span class="tag" style="background-color:var(--dark-{{ index $bg_color $i }});color:var(--color);">
+<span class="tag" style="background-color:var(--dark-{{ index $bg_color $i }});color:var(--color);">
 {{ .Title }}
 	</span>
 </a>
 {{ $i = add $i 1 }}
-{{ $i = mod $i $p }}
+{{ $i = mod $i $bg_i }}
 {{ end }}
 </div>
 {{ end }}

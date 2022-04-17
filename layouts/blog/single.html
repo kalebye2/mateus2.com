@@ -4,9 +4,11 @@
 {{ $ct := .Param "cover-from-title" }}
 {{ $cs := .Param "cover-from-site" }}
 
+{{ $sentences := index $.Site.Data.sentences $.Site.Language.Lang }}
+
 <h1>{{ .Title }}</h1>
 <h3 class="subtitle">{{ dateFormat ":date_medium" .Date }}</h3>
-<p style="font-size:.7em;">Tempo de leitura: aprox. {{ .ReadingTime }}min</p>
+<p style="font-size:.7em;">{{ $sentences.reading_time }} {{ .ReadingTime }}min</p>
 
 {{ if $c }}
 <div class="blog-img">
@@ -23,7 +25,7 @@
 </div>
 
 	<div class="toc">
-		<p>Sumário</p>
+		<p>{{ $sentences.toc }}</p>
 		{{ .TableOfContents }}
 	</div>
 <hr>
@@ -41,7 +43,5 @@
 	{{ end }}
 {{ end }}
 */}}
-
-<a href="/{{ .Section }}"><h3 style="text-align:center;">Voltar a {{ .Section | title }}</h3></a>
 
 {{ end }}

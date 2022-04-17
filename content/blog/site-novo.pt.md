@@ -37,7 +37,7 @@ E tem a vantagem de ser montado como um site estático, ou seja, toda vez que vo
 
 ## Palavras finais
 
-Caso queira entrar em contato, [pode fazê-lo](mailto:kalebye2@protonmail.com), seja para contratar para um serviço, para dar sugestão ou para me xingar porque discorda de mim.
+Caso queira entrar em contato, [pode fazê-lo](mailto:kalebye2@proton.me), seja para contratar para um serviço, para dar sugestão ou para me xingar porque discorda de mim.
 Só, por favor, xingue-me cordialmente.
 Não quero ter que responder aos xingamentos corrigindo-os gramaticalmente.
 
