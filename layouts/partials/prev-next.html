@@ -9,7 +9,7 @@
 	{{ end }}
 	</span>
 	<span>
-		<a href="/{{ .Section | absLangURL }}"><h3 style="text-align:center;">{{ $sentences.back_to }} {{ .Section | title }}</h3></a>
+		<a href="{{ .Section | absLangURL }}"><h3 style="text-align:center;">{{ $sentences.back_to }} {{ .Section | title }}</h3></a>
 	</span>
 	<span style="text-align:right;">
 	{{ with .NextInSection }}
