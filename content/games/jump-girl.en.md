@@ -17,19 +17,17 @@ description: ""
 manual: ""
 tags: [""]
 images: [""]
-categories: ["2D", "jogo", "plataforma", "metroidvania"]
+categories: ["2D", "game", "plataformer", "metroidvania"]
 keywords: [""]
 softwares: ["Godot"]
 ---
 
-Uma garota que pula por aí e coleta um pouco de orégano para temperar sua vida.
-E ela também gosta de fazê-lo rapidamente.
+A girl who jumps and collects a little bit of oregano to spice her life.
+She also likes to do it rapidly.
 
-O propósito do jogo é completar o desafio de coletar todos os oréganos do mapa o mais rápido possível - e sem morrer, se conseguir.
+The purpose of the game is to complete the challenge of completing all oregano ASAP - without dying, if possible.
 
-Foi uma produção de uma semana.
-Todos os elementos do jogo exceto a fonte foram produzidos dentro desse tempo por mim - sprites, efeitos sonoros, background, música, código etc.
+It was made in a week.
+All the elements of the game except the font were made in this timespan by me - sprites, sfx, background, music, code etc.
 
-Este jogo foi feito para a [Godot Wild Jam 31](https://itch.io/jam/godot-wild-jam-31).
-
-
+This game was made for [Godot Wild Jam 31](https://itch.io/jam/godot-wild-jam-31).

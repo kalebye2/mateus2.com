@@ -4,10 +4,8 @@ cover: "firealpaca"
 site: "https://firealpaca.com"
 ---
 
-FireAlpaca é um software de desenho gratuito disponibilizado pela mesma empresa responsável pelo MediBang Pro.
+FireAlpaca is a free drawing program made available from the same company responsible for Medibang Pro.
 
-Foi utilizado como uma alternativa simples a programas mais caros - fora que foi um dos primeiros que encontrei antes de 2015 que faziam animação além de Krita.
-Em 2015 foi o ano em que OpenToonz foi lançado como um programa de código aberto e gratuito.
-Ainda mantive o FireAlpaca para algumas animações por estar acostumado, mas com o tempo as outras ferramentas se tornaram muito mais úteis para mim.
+It was used as a simple alternative to more expensive softwares - and it was one of the first that I found before 2015 which made animations beyond Krita.
 
-No final das contas, FireAlpaca é interessante para pequenas animações e alguma arte estática.
+FireAlpaca is interesting for small animations and some static drawings.

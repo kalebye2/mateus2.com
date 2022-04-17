@@ -4,8 +4,8 @@ cover: "tahoma2d"
 site: "https://tahoma2d.org"
 ---
 
-Tahoma2D é um programa de animação desenvolvido baseado no OpenToonz para incrementar sua funcionalidade e torná-lo mais acessível a animadores digitais e novos animadores, bem como animadores de *stop-motion*.
+Tahoma2D is an animation software developed base on OpenToonz to make its functionality be more fitting to a digital animators' workflow, and also has great stop-motion features.
 
-Por ser familiarizado com o OpenToonz, trabalhar com esse programa foi fácil desde o início.
-As únicas coisas que tive que ajustar foram o gerenciamento de projeto e a organização do layout para minha preferência.
-Além disso, é ótimo para animadores acostumados com outras ferramentas de animação.
+For being familiarized with OpenToonz, working with this software was easy for me since the beginning.
+The only things I had to adjust were the project and layout management for my preferences.
+It is also great for animators used to other animation tools.

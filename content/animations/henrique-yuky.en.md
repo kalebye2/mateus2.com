@@ -1,4 +1,3 @@
-
 ---
 title: "Henrique & Yuky"
 date: 2021-11-29T02:32:38-03:00
@@ -12,12 +11,12 @@ images: [""]
 slug: ""
 description: ""
 tags: [""]
-categories: ["casamento", "2D", "quadro-a-quadro"]
+categories: ["marriage", "2D", "frame-by-frame"]
 images: [""]
 keywords: [""]
 softwares: ["OpenToonz"]
 ---
 
-Esta animação foi feita para o noivado de Henrique e Yuky.
+This animation was made for the engagement of Henrique and Yuky, personal friends of mine.
 
-Foi pedido algo simples, sem muita elaboração, mas o noivo esqueceu que sou animador quadro-a-quadro (apesar de que o estilo de arte continuou simples).
+Henrique asked for a simple animation, without much complexity, but he forgot that I am a frame-by-frame animator (but the art style was kept simple).

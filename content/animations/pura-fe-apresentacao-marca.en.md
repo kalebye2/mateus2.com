@@ -18,6 +18,6 @@ keywords: [""]
 softwares: ["Blender", "After Effects"]
 ---
 
-Animação para [Pura Fé](https://igrejapurafe.com.br/), uma igreja que surgiu da visão do pastor Bruno Brito enquanto saindo da Igreja Batista da Lagoinha.
+Animation made for [Pura Fé](https://igrejapurafe.com.br/), a church that was born from the vision of pastor Bruno Brito when he was getting out of the Lagoinha Baptist Church.
 
-A ideia era apresentar os elementos da marca de maneira forte, com a mensagem de que a mensagem da igreja é uma mensagem forte.
+The idea was to show the branding strongly with the message that the message of the church is a strong message.

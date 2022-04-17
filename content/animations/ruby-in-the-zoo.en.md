@@ -12,12 +12,12 @@ images: [""]
 slug: ""
 description: ""
 tags: [""]
-categories: ["2D", "quadro-a-quadro", "concurso"]
+categories: ["2D", "frame-by-frame", "concurso"]
 images: [""]
 keywords: [""]
 softwares: ["FireAlpaca", "OpenToonz"]
 ---
 
-Animação feita para o concurso de [*Animation Career Review*](https://www.animationcareerreview.com/) com o tema **Zoológico**.
+Animation made for [*Animation Career Review*](https://www.animationcareerreview.com/) themed **Zoo**.
 
-Os fundos e os desenhos da animação foram feitos no FireAlpaca, enquanto que a composição final foi feita no OpenToonz.
+The backgrounds and drawings were made in FireAlpaca while the final composition and editing was made in OpenToonz.

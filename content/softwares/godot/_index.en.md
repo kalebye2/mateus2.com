@@ -4,8 +4,8 @@ cover: "godot"
 site: "https://godotengine.org"
 ---
 
-Uma engine de produção de jogos extremamente potente e de fácil aprendizado e uso.
+An extremely powerful game engine which is also easy to use.
 
-Também é um software livre, de código aberto e gratuito.
+It is also a free and open source software.
 
-Tem uma comunidade bem forte em torno dela, além de ser desenvolvida com carinho e pensada para desenvolvedores de todos os estilos e de todos as classes sociais.
+It has a strong community around it, and is also developed with care and thought to developers of all styles and all social classes.

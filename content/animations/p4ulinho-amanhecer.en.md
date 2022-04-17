@@ -12,12 +12,12 @@ images: [""]
 slug: ""
 description: ""
 tags: [""]
-categories: ["2D", "quadro-a-quadro", "artista"]
+categories: ["2D", "frame-by-frame", "artist"]
 images: [""]
 keywords: [""]
 softwares: ["Tahoma2D"]
 ---
 
-Neste clipe fui responsável por fazer todas as animações.
+In this clip I was responsible for all animations.
 
-A ideia era usar o cubo de neon como base para que as animações encaixassem no contexto, além de combinar com *trap*, o gênero da música do artista.
+The idea was to use a neon cube as a base for the animations to fit in the context and combine with the genre of the artist - trap.

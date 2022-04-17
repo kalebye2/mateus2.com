@@ -11,9 +11,14 @@ images: [""]
 slug: ""
 description: ""
 tags: [""]
+categories: ["2D", "frame-by-frame"]
 images: [""]
 keywords: [""]
-softwares: [""]
+softwares: ["FireAlpaca", "After Effects"]
 ---
 
-Hello
+Animation made for the [Animation Career Review](https://www.animationcareerreview.com/) contest themed **Make a Commercial**.
+
+In this animation I got frame-by-frame animation to the limit, drawing each part of the movement - differently than [A Jurassic Park Parody](/en/animations/a-jurassic-park-parody).
+
+The product of the animation isn't real.

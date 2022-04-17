@@ -12,14 +12,14 @@ images: [""]
 slug: ""
 description: ""
 tags: [""]
-categories: ["2D", "quadro-a-quadro", "concurso"]
+categories: ["2D", "frame-by-frame", "contest"]
 images: [""]
 keywords: [""]
 softwares: ["OpenToonz"]
 ---
 
-Animação feita para o concurso da [*Animation Career Review*](https://www.animationcareerreview.com/) com o tema **Videogame**.
+Animation made for [*Animation Career Review*](https://www.animationcareerreview.com/) contest themed **Videogame**.
 
-Todos os personagens exceto o robô pertencem à [Sega](https://www.sega.com/).
+All characters but the robot belong to [Sega](https://www.sega.com/).
 
-Esta foi a primeira animação que fiz completamente no [OpenToonz](https://opentoonz.github.io/).
+This was the first animation I made entirely in [OpenToonz](https://opentoonz.github.io/).

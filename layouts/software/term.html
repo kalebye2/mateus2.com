@@ -10,8 +10,7 @@
 	{{ partial "pages-navigator.html" . }}
 	</div>
 	<hr>
-<div class="grid-2 content">
-	<div class="grid-item">
+	<div class="">
 	{{ $c := .Param "cover" }}
 	{{ if not $c }}
 		{{ $c = "default"}}
@@ -22,7 +21,6 @@
 		<a href="{{ $site }}" target="_blank"><h1>{{ .Title }}</h1></a>
 		{{ .Content }}
 	</div>
-</div>
 <div>
 	<a href="{{ .CurrentSection.Permalink }}"><h1 style="text-align:center;">{{ $sentences.back_to }} Softwares</h1></a>
 </div>

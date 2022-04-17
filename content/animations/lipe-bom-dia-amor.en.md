@@ -12,18 +12,16 @@ images: [""]
 slug: ""
 description: ""
 tags: [""]
-categories: ["2D", "motion", "artista"]
+categories: ["2D", "motion", "artist"]
 images: [""]
 keywords: [""]
 softwares: ["After Effects"]
 ---
 
-Lyric video para a música "Bom dia, amor!" de Lipe.
+Lyric video for the song "Bom dia, amor!" (Good morning, darling!) from Lipe.
 
-A direção foi feita por [Jow Neto](https://instagram.com/jowneto) e a proposta de fazer uma animação baseada numa conversa de Whatsapp veio dele.
+The direction was made by [Jow Neto](https://instagram.com/jowneto) and the idea of making the animation a simulation of a Whatsapp conversation came from him.
 
-Inicialmente foi proposto que o clipe fosse a gravação de tela de um celular ou computador no Whatsapp, mas a ideia de que uma mensagem de alguém aleatório poderia surgir e a necessidade de, caso acontecesse, pedir direito de imagem dessa pessoa ou borrar o rosto fez com que a ideia de animar tudo viesse à tona.
-Bom, quase tudo: a tela para ir ao Whatsapp foi gravada.
+Firstly it was proposed that it would be a screen recording of the conversation, however this would probably be more time consuming and stressful than just animating it, so we decided to animate it (almost) fully.
 
-Toda a parte do Whatsapp foi animada usando keyframes e expressões para controlar a animação sem a necessidade de reajustar detalhes caso houvesse alguma mudança mínima.
-Talvez por isso o tempo de render tenha sido tão alto...
+In this animation I explored keyframes and expressions from After Effects and oh, boy, the rendering time was just astronomical!

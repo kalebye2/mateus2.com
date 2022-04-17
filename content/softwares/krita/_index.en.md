@@ -4,10 +4,9 @@ cover: "krita"
 site: "https://krita.org"
 ---
 
-Krita é um programa profissional de pintura digital **livre, gratuito e de código-aberto**.
-É um programa feito por artistas que querem que ferramentas para criação de arte seja acessível para todos.
+Krita is a free and open source professional digital painting software made by artists who want art creation tools accessible to everyone.
 
-É uma ferramenta com suporte para criação de arte conceitual, texturas, pinturas, ilustrações, artes para jogos, quadrinhos e até mesmo arte vetorial.
+It is a tool with support to creation of concept art, textures, paintings, illustrations, game art, comics and also vector art.
 
-As ferramentas de pintura são o que realmente chamam a atenção neste programa.
-Desde os pincéis simples de caneta e lápis até uma engine poderosa de pincéis de aquarela, é uma ferramenta extremamente útil para todo mundo que preza uma boa arte visual.
+The painting tools are what draw my attention to this software.
+Since simple brushes of pen and pencil to a powerful engine of watercolor brushes, it is an extremely useful tool to anyone who wants a good visual art.

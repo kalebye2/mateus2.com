@@ -11,19 +11,17 @@ images: [""]
 slug: ""
 description: ""
 tags: [""]
-categories: ["3D", "2D", "educacional", "motion"]
+categories: ["3D", "2D", "educational", "motion"]
 images: [""]
 keywords: [""]
 softwares: ["Tahoma2D", "OpenToonz", "After Effects", "Blender"]
 ---
 
-Uma animação feita para o [Genome BC](https://www.genomebc.ca/) em parceria com [Bruno Luna](https://www.instagram.com/animabob/).
+An animation made for [Genome BC](https://www.genomebc.ca/) in partnership with [Bruno Luna](https://www.instagram.com/animabob/).
 
-Trabalho feito como *freelance*.
+This is a *freelance* job.
 
-Os fatos animados por mim foram: 02, 07, 11, 17, 18 e 20.
+The facts mainly animated by me are: 02, 07, 11, 17, 18 e 20.
 
-Esta foi a primeira animação na qual utilizei o After Effects como ferramenta de animação.
-Apenas o fato 02 foi feito no After Effects.
-Todos os outros fatos foram feitos no OpenToonz e no Tahoma2D.
-O fundo 3D do fato 17 foi feito no Blender.
+This was the first animation where I used After Effects to animate fully a scene - which is Fact 02.
+The 3D background in Fact 17 was made in Blender.

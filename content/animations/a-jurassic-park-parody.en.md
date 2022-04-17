@@ -12,12 +12,12 @@ slug: ""
 description: ""
 tags: [""]
 images: [""]
-categories: ["2D", "quadro-a-quadro"]
+categories: ["2D", "frame-by-frame"]
 keywords: [""]
 softwares: ["Firealpaca", "Macromedia Flash"]
 ---
 
-Uma paródia de animação feita para o concurso da *Animation Career Review*.
-Ideia original e voz feminina cortesia de [Julia Castro](https://instagram.com/j.uliacastro).
+An animation parody made for the [Animation Career Review](https://animationcareerreview.com) contest themed **Make a Parody**.
+The original idea and female voice were cortesy of [Julia Castro](https://instagram.com/j.uliacastro).
 
-Esta foi a primeira animação que publiquei que tem sincronização labial.
+This was the first animation published that has lip sync.

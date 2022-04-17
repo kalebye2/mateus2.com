@@ -12,20 +12,19 @@ images: [""]
 slug: ""
 description: ""
 tags: [""]
-categories: ["2D", "quadro-a-quadro"]
+categories: ["2D", "frame-by-frame"]
 images: [""]
 keywords: [""]
 softwares: ["Macromedia Flash"]
 ---
 
-Animação feita para apresentação de um trabalho de Literatura do Terceiro ano do Ensino Médio sobre Carlos Drummond de Andrade.
+Animation made for a school project about Carlos Drummond de Andrade.
 
-A animação foi toda desenhada no *Macromedia Flash 8* com o mouse.
-O projeto foi pensado para ficar pronto dentro de uma semana - uma semana antes do prazo para a apresentação.
-Afinal, eu ainda precisava estudar sobre o escritor.
+The animation was drawn in [Macromedia Flash 8](/en/softwares/macromedia-flash) with the mouse.
+The project was thought to be ready in one week - one week before the deadline for the presentation because I still had to study the writer to the project.
 
-A professora mudou o escritor para o nosso grupo na última semana.
-Mesmo assim decidi publicar no Youtube a animação.
-Como era surpresa, eu não avisei a ela que tinha feito uma animação.
+The teacher changed the writer for our group's presentation in the last week.
+But I still decided to publish the animation in Youtube.
+I was going to make a surprise, so I never said I made an animation.
 
-Provavelmente ela não sabe até hoje que eu tinha feito uma animação para aquele projeto (a não ser que veja esta página...).
+Probably she doesn't know till today that I had made an animation for that project (unless she is seeing this page...).

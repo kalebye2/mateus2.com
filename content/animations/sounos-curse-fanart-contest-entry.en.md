@@ -12,16 +12,15 @@ images: [""]
 slug: ""
 description: ""
 tags: [""]
-categories: ["2D", "concurso", "quadro-a-quadro"]
+categories: ["2D", "contest", "frame-by-frame"]
 images: [""]
 keywords: [""]
 softwares: ["OpenToonz", "Krita"]
 ---
 
-Minha arte feita para concorrer no [concurso de *fanart* da campanha do Kickstarter de Souno's Curse](https://pollunit.com/polls/sounoscurse-kickstarterfanart).
-Finalizei em segundo lugar no concurso.
+My entry to [Souno's Curse Kickstarter Campaign Contest](https://pollunit.com/polls/sounoscurse-kickstarterfanart).
 
-[Souno's Curse](https://sounoscurse.com/) é um jogo no estilo Metroidvania atmosférico e desenhado à mão.
-Com o meu interesse pelo jogo e a admiração pela direção de arte foi que decidi criar esta animação que faz referência ao personagem principal diante de um ponto de descanso na caverna inicial do jogo.
+[Souno's Curse](https://sounoscurse.com/) is a hand drawn atmospheric metroidvania.
+With my interest in the game and admiration for the art direction I decided to make this animation which references the main character in a resting point in the first cave of the game.
 
-Krita foi usado para fazer o background e OpenToonz para a animação e composição final.
+Krita was used to make the background and OpenToonz to animation and final composition.
