@@ -5,7 +5,7 @@
 	</span>
 	{{ $currentPage := . }}
 	{{ range .Site.Menus.main }}
-		<a class="nav-item" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+		<a class="nav-item" href="{{ .URL | relLangURL }}" title="{{ .Title }}">{{ .Name }}</a>
 	{{ end }}
 	<a class="nav-item" href="mailto:kalebye2@proton.me" target="_blank"><strong>{{ $sentences.contact }}</strong></a>
 	{{ partial "lang_select.html" . }}
