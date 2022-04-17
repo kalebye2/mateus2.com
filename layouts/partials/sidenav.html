@@ -2,7 +2,7 @@
 	<ul>
 	{{ range $key, $value := .Site.Taxonomies }}
 	{{ if not (eq $key "categories") }}
-	<li style="font-weight:bold;"><a href="{{ "/" | relLangURL }}{{ $key | urlize}}">{{ $key }}</a></li>
+	<li style="font-weight:bold;"><a href="{{ .URL | relLangURL }}/{{ $key }}">{{ $key }}</a></li>
 		<ul>
 			{{ range $value }}
 			<li style="font-size:.8em;"><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
