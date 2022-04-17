@@ -1,5 +1,5 @@
 ---
-title: "Softwares que uso"
+title: "Softwares I use"
 ---
 
 Esta é a lista dos softwares que eu uso nos meus trabalhos.

@@ -1,11 +1,12 @@
 {{ define "main" }}
+{{ $sentences := index $.Site.Data.sentences $.Site.Language.Lang }}
 <div>
 	{{/* site */}}
 	{{ $site := .Param "site" }}
 	{{ if not $site }}
 		{{ $site = "#" }}
 	{{ end }}
-	<h1 class="term-list-h1">Feito com {{ .Title }}</h1>
+	<h1 class="term-list-h1">{{ $sentences.made_with }} {{ .Title }}</h1>
 	{{ partial "pages-navigator.html" . }}
 	</div>
 	<hr>
@@ -23,6 +24,6 @@
 	</div>
 </div>
 <div>
-<a href="/softwares/"><h1 style="text-align:center;">Voltar para Softwares</h1></a>
+	<a href="/softwares/"><h1 style="text-align:center;">{{ $sentences.back_to }} Softwares</h1></a>
 </div>
 {{ end }}
