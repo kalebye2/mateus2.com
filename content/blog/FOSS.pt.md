@@ -21,8 +21,6 @@ E sim, é *livre* e não *gratuito* - já fica claro por que a diferença!
 
 [^foss]: https://itsfoss.com/what-is-foss/
 
-Quem não gosta de coisa grátis?
-
 ## Uso livre vs proprietário
 
 Ser de uso livre não significa que o software pode ser usado sem responsabilidade (geralmente FOSS possuem um termo de uso como qualquer outro software), mas que o software está disponível livremente para qualquer um que quiser usar.
