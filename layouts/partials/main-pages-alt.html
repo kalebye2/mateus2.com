@@ -1,0 +1,40 @@
+{{ $sentences := index $.Site.Data.sentences $.Site.Language.Lang }}
+
+{{ $types := dict "animations" slice "games" slice "blog" slice }}
+<div class="grid-2">
+{{ range $k, $v := $types }}
+	{{ range $.Site.RegularPages }}
+		{{ if eq .Type $k }}
+			{{ $v = $v | append . }}
+		{{ end }}
+	{{ end }}
+	{{ $v = first 3 $v }}
+
+	{{ $title := "" }}
+	{{ $type := "" }}
+	{{ $url := "" }}
+	{{ range first 1 $v }}
+		{{ $t := .Type }}
+		{{ range $.Pages }}
+		{{ if eq .Type $t }} {{ $title = .Title }} {{ $type = .Type }} {{ $url = .Permalink }} {{ end }}
+		{{ end }}
+	{{ end }}
+	<div class="grid-item {{ $type }}" style="padding:.4rem;color:var(--lighter-gray);">
+		<h2>{{ $title }}</h2>
+		<div class="grid-3">
+		{{ range $v }}
+			<a href="{{ .Permalink }}" class="grid-item cover" style="overflow:hidden;margin:.3rem;">
+			{{ $ext := "png" }}
+			{{ if (eq $k "blog") }} {{ $ext = "jpg" }} {{ end }}
+			<img src="/img/cover/{{ .Params.cover }}.{{ $ext }}" class="cover-img" style="width:33vw;">
+			<div class="cover-text">{{ .Title }}</div>
+		</a>
+		{{ end }}
+		</div>
+		<a href="{{ $url }}" class="btn-more">
+			{{ $sentences.more_items }}
+		</a>
+	</div>
+
+{{ end }}
+</div>

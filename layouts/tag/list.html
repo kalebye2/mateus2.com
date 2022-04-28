@@ -11,7 +11,7 @@
 {{ $p := len .Pages }}
 {{ range .Pages }}
 <a href="{{ .Permalink }}">
-<span class="tag" style="background-color:var(--dark-{{ index $bg_color $i }});color:var(--color);">
+<span class="tag" style="background-color:var(--dark-{{ index $bg_color $i }});color:var(--lighter-gray);">
 {{ .Title }}
 	</span>
 </a>

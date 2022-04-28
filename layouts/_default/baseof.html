@@ -31,7 +31,8 @@
 	</div>
 
 	{{ if .IsHome }}
-		{{ partial "main-pages.html" . }}
+		{{/* {{ partial "main-pages.html" . }} */}}
+		{{ partial "main-pages-alt.html" . }}
 	{{ end }}
 	<hr>
 	<div class="footer">
@@ -39,4 +40,5 @@
 		{{ partial "footer.html" . }}
 	</div>
 </body>
+<script src="/js/theme-switcher.js"></script>
 </html>

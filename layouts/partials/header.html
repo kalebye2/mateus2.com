@@ -8,5 +8,7 @@
 		<a class="nav-item" href="{{ .URL | relLangURL }}" title="{{ .Title }}">{{ .Name }}</a>
 	{{ end }}
 	<a class="nav-item" href="mailto:kalebye2@proton.me" target="_blank"><strong>{{ $sentences.contact }}</strong></a>
+	<!-- theme switcher icon -->
+	<a style="position:fixed;z-index:100;right:2rem;bottom:2rem;cursor:pointer;" id="btn-theme-switch"><img src="/img/icon/theme.png"></a>
 	{{ partial "lang_select.html" . }}
 </nav>

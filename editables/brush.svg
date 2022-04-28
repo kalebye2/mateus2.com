@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1135"
+   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
+   sodipodi:docname="brush.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1137"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.91579684"
+     inkscape:cx="426.40462"
+     inkscape:cy="319.39398"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1132" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#60326f;fill-opacity:1;stroke:#ffffff;stroke-width:7.9375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="path5792"
+       cx="128.91083"
+       cy="71.554344"
+       r="39.116776"
+       inkscape:export-filename="../static/img/icon/theme.png"
+       inkscape:export-xdpi="18.860001"
+       inkscape:export-ydpi="18.860001" />
+    <path
+       id="rect1218"
+       style="fill:#080700;stroke:#ffffff;stroke-width:3.25424;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;fill-opacity:1"
+       d="m 136.51475,51.75374 8.55958,8.559579 c 0,0 -4.98441,18.068794 -50.896044,47.182891 -1.680372,1.06559 -5.898164,-3.15626 -4.846448,-4.84643 C 117.65165,57.138447 136.51475,51.75374 136.51475,51.75374 Z"
+       sodipodi:nodetypes="ccssc"
+       inkscape:export-filename="../static/img/icon/theme.png"
+       inkscape:export-xdpi="18.860001"
+       inkscape:export-ydpi="18.860001" />
+    <path
+       id="path2814"
+       style="fill:#010101;fill-opacity:1;stroke:#ffffff;stroke-width:3.94461;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m 154.20208,31.648937 c -6.98758,7.072998 -10.49293,2.612536 -17.96179,10.718685 l 0.10296,0.1043 c -0.0406,0.03659 -0.0809,0.07357 -0.12083,0.11094 -3.98668,3.986643 -3.23094,11.206123 1.68801,16.125302 4.91916,4.919204 12.13886,5.675091 16.1256,1.688317 0.37382,-0.373984 0.71123,-0.783244 1.00918,-1.224083 3.62506,-4.675048 4.39889,-7.440172 3.37121,-16.797835 l -6.84252,10.592473 c 1.00089,-2.163456 3.79544,-18.85126 2.62818,-21.318099 z"
+       inkscape:export-filename="../static/img/icon/theme.png"
+       inkscape:export-xdpi="18.860001"
+       inkscape:export-ydpi="18.860001"
+       sodipodi:nodetypes="cccccccccc" />
+    <circle
+       style="fill:#ff0617;fill-opacity:1;stroke:#ffffff;stroke-width:3.175;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="path4030"
+       cx="157.59441"
+       cy="67.409325"
+       r="7.7155523"
+       inkscape:export-filename="../static/img/icon/theme.png"
+       inkscape:export-xdpi="18.860001"
+       inkscape:export-ydpi="18.860001" />
+    <circle
+       style="fill:#3caa3e;fill-opacity:1;stroke:#ffffff;stroke-width:3.175;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="path4032"
+       cx="149.46915"
+       cy="85.531517"
+       r="9.0347109"
+       inkscape:export-filename="../static/img/icon/theme.png"
+       inkscape:export-xdpi="18.860001"
+       inkscape:export-ydpi="18.860001" />
+    <circle
+       style="fill:#0d17dd;fill-opacity:1;stroke:#ffffff;stroke-width:3.175;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="path4034"
+       cx="130.86647"
+       cy="100.06842"
+       r="10.347041"
+       inkscape:export-filename="../static/img/icon/theme.png"
+       inkscape:export-xdpi="18.860001"
+       inkscape:export-ydpi="18.860001" />
+  </g>
+</svg>

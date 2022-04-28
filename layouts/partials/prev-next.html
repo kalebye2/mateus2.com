@@ -1,6 +1,6 @@
 {{ $sentences := index $.Site.Data.sentences $.Site.Language.Lang }}
 
-<nav class="pages grid-3">
+<nav class="pages grid-3-fixed">
 	<span>
 	{{ with .PrevInSection }}
 		<a href="{{ .Permalink }}">
