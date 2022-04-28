@@ -1,5 +1,5 @@
 var stored = localStorage;
-if (stored.theme == "undefined") stored.theme = "dark";
+if (stored.length == 0) stored.theme = "dark";
 document.body.className = stored.theme;
 
 const themes = ["dark", "light"];
@@ -13,7 +13,6 @@ function switch_theme() {
 	for (i in themes) {
 		if (themes[i - 1] === stored.theme) {
 			th = i;
-			console.log(th);
 		}
 	}
 	stored.theme = themes[th];
