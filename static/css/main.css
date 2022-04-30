@@ -370,7 +370,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .grid-3 {
 	display: grid;
-	grid-template-columns: 33% 34% 33%;
+	grid-template-columns: 33% 33% 33%;
 }
 
 .grid-3-fixed {
