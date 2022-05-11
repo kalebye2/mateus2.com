@@ -4,6 +4,8 @@ enableRobotsTXT: true
 
 defaultContentLanguage: "pt"
 
+summaryLength: 10
+
 # languages
 languages:
         pt:

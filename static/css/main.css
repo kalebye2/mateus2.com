@@ -92,6 +92,7 @@
 	--nav-games-bg: var(--medium-red);
 	--nav-music-bg: var(--medium-blue);
 	--nav-blog-bg: var(--dark-yellow);
+	--nav-blog-bg-hover: var(--dark-gray); 
 }
 
 .light {
@@ -111,6 +112,7 @@
 	--nav-games-bg: var(--medium-red);
 	--nav-music-bg: var(--medium-blue);
 	--nav-blog-bg: var(--dark-yellow);
+	--nav-blog-bg-hover: var(--lighter-gray); 
 }
 
 .high-contrast {
@@ -362,6 +364,19 @@ h1, h2, h3, h4, h5, h6 {
 	text-indent: 3em;
 }
 
+.blog-list-item {
+	display:grid;
+	grid-template-columns:30% 70%;
+	padding: 1rem;
+
+	transition: 200ms ease-out;
+}
+
+.blog-list-item:hover {
+	background-color: var(--nav-blog-bg-hover);
+
+	transform: scale(1.01);
+}
 
 .grid-2 {
 	display: grid;
