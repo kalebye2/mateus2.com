@@ -3,7 +3,6 @@
 	{{ $bg_color := shuffle (slice "red" "green" "blue" "purple" "orange" "yellow") }}
 	{{ $i := 0 }}
 	{{ $bg_i := len $bg_color }}
-	{{ $p := len (.GetTerms "tags") }}
 
 	Tags:
 	{{ range .GetTerms "tags"}}

@@ -3,11 +3,13 @@
 	{{ range $key, $value := .Site.Taxonomies }}
 	{{ if not (eq $key "categories") }}
 	<li style="font-weight:bold;"><a href="{{ $key | relLangURL }}">{{ $key }}</a></li>
+		{{/*
 		<ul>
 			{{ range $value }}
 			<li style="font-size:.8em;"><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
 			{{ end }}
 		</ul>
+		*/}}
 		{{ end }}
 	{{ end }}
 	</ul>

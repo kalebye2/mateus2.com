@@ -8,7 +8,7 @@ cover-from-title: "Pixabay"
 cover-from-site: "https://pixabay.com/photos/girl-sitting-jetty-docks-boardwalk-1822702/"
 slug: ""
 description: ""
-tags: ["saúde mental", "psicologia", "mulheres"]
+tags: ["saúde mental", "psicologia", "mulher"]
 images: [""]
 keywords: ["saúde mental", "psicologia", "mulheres"]
 ---

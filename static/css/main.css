@@ -106,7 +106,7 @@
 	--blockquote-weight: none;
 	--blockquote-font-style: none;
 	--blockquote-font-size: .9em;
-	--blockquote-border: 4px solid var(--medium-purple);
+	--blockquote-border: 4px solid var(--medium-blue);
 
 	--nav-animations-bg: var(--medium-green);
 	--nav-games-bg: var(--medium-red);
@@ -203,6 +203,7 @@ h1, h2, h3, h4, h5, h6 {
 	position: relative;
 	margin: 0px;
 	padding: 1rem;
+	text-align: center;
 
 	transition: var(--default-transition-time) ease-out;
 }
@@ -340,7 +341,8 @@ h1, h2, h3, h4, h5, h6 {
 	max-width: 20%;
 	position: relative;
 	display: inline-block;
-	background-color: var(--nav-bg);
+	/* background-color: var(--nav-bg); */
+	border-right: 3px solid var(--nav-bg);
 
 	transition: var(--default-time-transition) ease-out;
 }

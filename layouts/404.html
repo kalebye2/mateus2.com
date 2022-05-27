@@ -1,0 +1,7 @@
+{{ define "main" }}
+{{ $sentences := index $.Site.Data.sentences $.Site.Language.Lang }}
+
+<h1>{{ $sentences.err404_title }}</h1>
+<h3>{{ $sentences.err404_desc }}</h3>
+<p>{{ $sentences.err404_text }}</p>
+{{ end }}
