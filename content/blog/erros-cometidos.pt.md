@@ -2,7 +2,7 @@
 title: "Erros Cometidos"
 date: 2022-06-13T20:37:40-03:00
 author: Mateus Borges Ribeiro
-draft: false
+draft: true
 cover: ""
 cover-from-title: ""
 cover-from-site: ""
