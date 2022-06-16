@@ -6,6 +6,11 @@ defaultContentLanguage: "pt"
 
 summaryLength: 10
 
+markup:
+        goldmark:
+                renderer:
+                        unsafe: true
+
 # languages
 languages:
         pt:

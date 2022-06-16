@@ -1,0 +1,219 @@
+{{ $page := . }}
+	
+{{ $imgs := .Resources.ByType "image" }}
+{{ $img_p := slice }}
+{{ range $imgs }}
+	{{ $img_p = $img_p | append (path.Join (path.Dir $page.File.Path) .) }}
+{{ end }}
+
+<html>
+<head>
+	<title>{{ .Title }}</title>
+
+<style type=text/css>
+	html {
+		scroll-behavior: smooth;
+	}
+
+	:root {
+		--crimson: #dc143c;
+		--crimson-dark: #860820;
+		--crimson-dark-transparent: #86082070;
+		--bg-color: #fcf0fcff;
+		--bg-color-fade: #fcf0fc00;
+	}
+
+	::selection {
+		color: white;
+		background: var(--crimson);
+	}
+	::-moz-selection {
+		color: white;
+		background: var(--crimson);
+	}
+
+	/* font-faces */
+	@font-face {
+		font-family: montserrat;
+		src: url(/font/Montserrat-Regular.woff);
+	}
+	@font-face {
+		font-family: montserrat;
+		src: url(/font/Montserrat-Black.woff);
+		font-weight: bold;
+	}
+
+	body {
+		margin: 0;
+		line-height: 1.6;
+		font-size: 1.2rem;
+		color: #1a1a1a;
+		background-color: var(--bg-color);
+		font-family: montserrat;
+	}
+	body::-webkit-scrollbar {
+		width: .5rem;
+	}
+	body::-webkit-scrollbar-track {
+		background: var(--crimson-dark);
+	}
+	body::-webkit-scrollbar-thumb {
+		background: var(--crimson);
+	}
+
+	h1 {
+		font-size: 6rem;
+		color: var(--crimson-dark);
+		margin-bottom: 0px;
+	}
+
+	h3 {
+		color: var(--crimson);
+	}
+
+	p {
+		text-align: center;
+	}
+
+	a {
+		color: var(--crimson);
+		text-decoration: none;
+
+		transition: 300ms ease-out;
+	}
+	a:hover {
+		color: var(--crimson-dark);
+	}
+
+	strong {
+		color: var(--crimson-dark);
+	}
+
+	.img-main {
+		border-radius: 50%;
+		position: relative;
+		width: max(400px, 30vw);
+		margin-left: 3%;
+		box-shadow: 0 0 20px var(--crimson-dark-transparent);
+	}
+
+	.img {
+		/* float: left; */
+		position: relative;
+		text-align: center;
+		width: max(300px, 20vw);
+		margin: auto;
+		margin-bottom: 3%;
+	}
+	.img-small {
+		box-shadow: 2px 2px 5px var(--crimson-dark-transparent);
+		border-radius: 10%;
+		max-width: 100%;
+		width: auto;
+		transition: 300ms ease-out;
+	}
+	.img-interact:hover .img-small {
+		transform: scale(1.1, 1.1);
+	}
+	.img-small-text {
+		position: absolute;
+		background-color: #fafafa;
+		padding: 1rem;
+		color: var(--crimson);
+		z-index: 1;
+		top: 90%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+	}
+
+	.hero {
+		background: linear-gradient(to top, var(--bg-color), var(--bg-color-fade)), url("{{ index $img_p 2 | relURL }}"), linear-gradient(to bottom, #fde2e5ff, #fde2e500);
+		/* background-image: url("{{ index $img_p 2 | relURL }}"); */
+		height: 100vh;
+		display: grid;
+		grid-template-columns: 50% 50%;
+		align-items: center;
+		justify-items: center;
+	}
+	.hero-text {
+		text-align: right;
+	}
+
+	.content {
+		margin: max(2rem, 5%);
+	}
+
+	.video {
+		text-align: center;
+	}
+
+	.footer {
+		text-align: right;
+		margin: max(2rem, 5%);
+	}
+	
+	@media screen and (max-width: 850px) {
+		.hero {
+			grid-template-columns: 100%;
+		}
+		h1 {
+			font-size: 3rem;
+		}
+		h2 {
+			font-size: 1.3rem;
+		}
+		h3 {
+			font-size: 1.1rem;
+		}
+		.img-main {
+			height: 60vh;
+			width: auto;
+		}
+	}
+
+</style>
+</head>
+<!---->
+<body>
+	<div class="hero">
+		<div class="hero-text">
+			<h1>{{ .Title }}</h1>
+		</div>
+		<img src="{{ index $img_p 0 | relURL}}" class="img-main" alt="">
+	</div>
+
+	<div class="content">
+	{{ .Content }}
+	</div>
+
+	<div>
+		<div class="img img-interact">
+			<a href="{{ index $img_p 1 | relURL }}" target="_blank">
+				<img src="{{ index $img_p 1 | relURL }}" class="img-small" alt="">
+				<div class="img-small-text">O buquê</div>
+			</a>
+		</div>
+		<div class="img img-interact">
+			<a href="{{ index $img_p 3 | relURL }}" target="_blank">
+				<img src="{{ index $img_p 3 | relURL }}" class="img-small" alt="">
+				<div class="img-small-text">Uma poesia</div>
+			</a>
+		</div>
+	</div>
+	
+	<div class="videos">
+		<div class="video" id="musica-gloria">
+			<div>
+				{{ partial "yt" . }}
+			</div>
+			<a href="#musica-gloria-link">volta pro texto</a>
+		</div>
+	</div>
+
+	<div class="footer">
+		<p>É com carinho que escrevo pra você, Glorinha.</p>
+		<h3>{{ dateFormat ":date_medium" .Date }}</h3>
+		<h2>- {{ .Param "author" }}</h2>
+	</div>
+</body>
+</html>

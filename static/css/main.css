@@ -1,3 +1,7 @@
+html {
+	scroll-behavior: smooth;
+}
+
 /* fonts */
 /* miriam libre */
 @font-face {
