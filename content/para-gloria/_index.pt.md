@@ -1,6 +1,6 @@
 ---
-title: "Para Glória"
-date: 2022-06-15T17:09:02-03:00
+title: "Querida Glória"
+date: 2022-06-27T17:09:02-03:00
 author: Mateus
 draft: false
 cover: ""
@@ -14,11 +14,9 @@ keywords: [""]
 yt: GVo85AY7R4k
 ---
 
-Glória,
-
 Eu te falei que você faria falta pra mim.
 Faz um tempo que não te vejo e já não vejo a hora de te ver de novo.
-É claro, posso esperar um pouco mais pra te ver, mas a saudade é bem grande.
+Tenho aprendido a ser paciente porque a vontade de te ver é enorme.
 
 Glorinha, você é uma mulher muito especial.
 Uma menina que me conquistou com seu jeitinho meigo de ser.
@@ -59,7 +57,7 @@ Eu nem vi seus vídeos cantando 20 vezes e já fico com as músicas na cabeça c
 Como isso melhora o meu dia!
 As músicas que você canta têm letras incríveis, e eu ainda fico com elas na cabeça vindo na sua voz.
 Sim, muitas vezes acordo com uma música na cabeça na sua voz.
-*"Se entregar os meus caminhos ao Senhor / Confiar nele e o mais ele fará / É fácil de cantar / Preciso entender / Posso viver feliz".*
+*"Entregar os meus caminhos ao Senhor / Confiar nele e o mais ele fará / É fácil de cantar / Preciso entender / Posso viver feliz".*
 Ou então a lembrança de quão fora do comum é o amor de Deus com *"É extravagante / e não faz sentido / eu nunca entenderei / o quanto me amas"*.
 
 E sua *playlist*, eu gostei.
@@ -85,9 +83,9 @@ E mesmo que a gente vá pra caminhos diferentes -- o que eu não quero de jeito 
 Assim podemos crescer e sempre procurar por algo que nos agrada.
 
 Por muito tempo eu fiquei em fuga.
-Muitas coisas que eu gostaria de dizer para garotas em minha vida eu deixei de dizer.
-Provavelmente nunca conseguirei dizer a elas.
-Claro, algumas coisas não precisam ser sabidas por elas e tá tudo bem.
+Muitas coisas que eu gostaria de dizer eu deixei de dizer.
+Provavelmente nunca conseguirei dizer a quem eu queria.
+Claro, algumas coisas não precisam ser sabidas por essas pessoas e tá tudo bem.
 Porém existem coisas importantes pra se falar.
 Nossos sentimentos.
 É por isso que eu estou mandando isto pra você.
@@ -125,10 +123,7 @@ Na verdade ele faz a dele independentemente se você fizer a sua...
 Enfim, confie em Deus.
 É algo que eu estou aprendendo a fazer -- e às vezes dói pra caramba porque você não sabe o que pode acontecer -- mas a experiência de saber que ele está cuidando de você é muito melhor do que qualquer boa notícia que você possa receber.
 
-Acho que eu já comentei, mas a última menina com quem eu estava conversando eu esperei 6 meses pra concluir que queria namorá-la.
-Claro, chamei ela várias vezes pra sair - e ela já veio com a desculpa de que não queria se machucar - mas a gente conversava bastante.
-
-Posso dizer, aliás, que você foi um milagre.
+Posso dizer, também, que você foi um milagre.
 Eu até tava conversando com amigos meus e dizendo que eu não queria pensar em absolutamente ninguém até o fim do ano.
 Nada, absolutamente nada mesmo com ninguém até o ano que vem porque a situação na qual deu errado um investimento de 6 meses foi bem humilhante pra mim.
 Até porque na realidade eu não sou o tipo de cara que fica procurando relacionamento.
@@ -139,9 +134,20 @@ Eu só penso em me envolver com alguém quando vejo que vale muito a pena.
 Por que você foi um milagre?
 Porque eu conversei uma vez com você e pensei "uau, quero conhecer mais essa menina".
 E quanto mais te conheci, mais gostei do que conheci.
-Confesso que eu falei pra Deus que se você quisesse só ficar e desse certo eu aceitaria - mas ficar com carinho e amor haha.
+Confesso que eu falei pra Deus que se você quisesse só ficar e desse certo eu aceitaria -- mas ficar só no carinho, sem nada demais haha.
 No início era só um "ela é gata, vou me aproximar e ver no que dá".
 Agora eu escrevo texto, poesia e música pra você.
+E não quero mais ficar porque não sou carente, e creio que estou bem resolvido nessa questão emocional.
+Mas eu quero muito sair com você.
+E como você já combinou que iríamos sair, também estou tranquilo em relação a isto.
+
+Aliás, você comentou um dia que precisava organizar sua vida.
+Oro para que você a organize.
+E eu realmente me sinto um pouco mal quando penso que, talvez, você nunca mais queira me responder, ainda mais considerando que agora você não me vê mais no trabalho.
+Porém posso te garantir que, mesmo que você não fale comigo até o ano que vem, você continuará em minhas orações.
+Sim, eu tenho coisas pessoais a resolver também, e por isso não quero colocar pressão em você.
+Só quero que você saiba a verdade.
+Quando eu disse que ia sentir sua falta eu disse a verdade, porque hoje eu me conheço e sei o que gosto e o que quero.
 
 Enquanto a gente não tem nada, fique tranquila.
 Não tenho pressa.
