@@ -1,6 +1,6 @@
 ---
 title: "Querida Glória"
-date: 2022-06-22T17:09:02-03:00
+date: 2022-06-27T17:09:02-03:00
 author: Mateus
 draft: false
 cover: ""
