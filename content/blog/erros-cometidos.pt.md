@@ -1,11 +1,11 @@
 ---
 title: "Erros Cometidos"
-date: 2022-06-13T20:37:40-03:00
+date: 2022-06-22T20:37:40-03:00
 author: Mateus Borges Ribeiro
-draft: true
-cover: ""
-cover-from-title: ""
-cover-from-site: ""
+draft: false
+cover: "pencil-g48f63d111_1280"
+cover-from-title: "Pixabay"
+cover-from-site: "https://pixabay.com/photos/pencil-eraser-notepad-write-paper-1037609/"
 slug: ""
 description: ""
 tags: [pessoal, cristianismo, emoção]
@@ -36,11 +36,6 @@ Eu errei.
 Muitas vezes.
 Muitas vezes tive que pedir perdão.
 Muitas vezes tive que aceitar perder aquilo que eu queria muito por erros.
-Uma vez eu tive que pedir perdão por trocar "afeto" por "amasso" - sim, foi um erro gravíssimo.
-Imagino o quanto a menina que ouviu isso se assustou.
-"O Mateus pedindo amassos?
-Ele é tão tranquilo e tão romântico!
-Como ele chegou nesse nível?"
 
 Com algumas experiências da minha vida e com coisas que já li e já aprendi, gostaria de compartilhar algumas coisas sobre os erros -- e trazer à tona a possibilidade de errarmos menos para termos melhores resultados nas nossas vidas.
 
@@ -137,7 +132,10 @@ Se tem uma coisa que eu não me orgulho nem um pouco de fazer é xingar outras p
 A pessoa pode merecer, mas meu xingamento sempre é um xingamento respeitoso e com lógica.
 Chamo a pessoa de incompetente se ela é incompetente, não preciso dizer que ela é uma "idiota" ou até outros tipos de xingamentos.
 Não, o xingamento precisa ser correto.
+Afinal, Jesus diz que uma ofensa gratuita é comparável ao assassinato[^ofensa-gratuita].
 E infelizmente eu vacilei com uma amiga minha nisso.
+
+[^ofensa-gratuita]: Mt 5:22
 
 O contexto é o colégio.
 Conversamos com todo mundo, meninos e meninas.
@@ -208,3 +206,169 @@ Moisés pecou ao bater na rocha porque pensou que Deus não o estava ajudando co
 Saul tentou matar Davi porque achou que Davi estava conspirando contra ele.
 A comunicação ajuda a evitar esse tipo de erro.
 E evitar pensar essas coisas também.
+
+## Erro romântico
+
+Vamos combinar: talvez você passou os outros tipos de erros pra chegar neste aqui.
+Afinal, gostamos de ótimas histórias românticas -- e histórias de erros românticos também.
+Por algum motivo parece que a gente entende melhor sobre relacionamentos quando pensamos nessa área.
+Quer dizer, eu sei que não é necessariamente assim, mas pelo fato de muitas vezes sermos carentes e burros quando se trata de romance é uma das áreas em que a gente mais se machuca -- e mais tenta ver por que a gente se machuca.
+
+Se foi o fato de eu usar "amassos" como expressão para dizer que queria ter mais proximidade física com uma menina -- que expressão maldita! -- ou ter ignorado o fato de uma menina gostar de mim por dois anos, acredito que aqui vai ter muito interesse da sua parte!
+Enfim, vamos a alguns erros que cometi com mulheres durante minha vida.
+
+### O namoro escondido escancarado: o retorno
+Quem melhor para dizer que errei do que minha ex-namorada?
+Como mencionei [aqui](#o-namoro-escondido-escancarado), eu praticamente fiz um malabarismo lógico para convencê-la a me namorar mesmo sem a aprovação de meus pais.
+Não que meus pais não quisessem que a gente namorasse -- aliás, minha mãe teve a brilhante ideia de falar diante de toda a família *dela* que ela gostaria que houvesse casamento entre as famílias.
+*Depois* de eu ter terminado com ela.
+E ela estar namorando outro cara.
+
+Enfim, meus erros não pararam por aí.
+Eu queria muito que ela focasse nos estudos e na vida pessoal.
+Por isso falava para ela que era melhor ela não namorar -- e só depois parei pra pensar que ela poderia pensar que eu falava isso por ciúmes! --, mas estudar e crescer pessoalmente.
+
+Porém eu sou péssimo em me expressar.
+Eu uso as palavras mais erradas possíveis.
+Sim, eu usei uma das piores palavras para dizer para ela que ela ficar namorando qualquer um que aparecesse não era uma boa decisão para ela.
+Eu não vou dizer a palavra aqui, vou deixar a imaginação fluir.
+E sim, eu mais uma vez tive que pedir perdão.
+Nesse caso até o namorado dela interviu.
+Pedi perdão para ela -- eu não gostava do namorado dela na época.
+Não que eu tivesse algo contra ele -- aliás, eu falei pra ela enquanto namorávamos que ela deveria dar uma chance pra ele caso terminássemos.
+Mas ele não combinava com ela.
+
+Aliás, algo interessante: quando nos mudamos, a família dela se hospedou em nossa casa para um evento importante.
+Adivinhem quem apareceu?
+Sim, o dito cujo.
+Tratei bem, como sugeri a ela que o tratasse.
+Mas aqui vou denunciar um erro grande: levar o atual namorado para a casa do ex *sem avisar previamente*.
+Eu sentia algo por ela? Não.
+Eu queria namorá-la? Não.
+Se ela estivesse solteira eu iria tentar reconquistá-la? Não porque eu já a havia conquistado.
+Porém é meio incômodo o cara aparecer sem avisar.
+Nossas famílias eram amigas, mas ele era um desconhecido.
+Minha ex podia dormir na minha casa pois tínhamos amizade; ele eu nem sabia o nome direito.
+
+Enfim, meu erro neste caso foi me apressar em expressar o que pensava da situação.
+Minha intenção foi a melhor possível, mas eu usei uma palavra desgraçada pra me expressar que gerou um incômodo gigantesco.
+É como diz Provérbios 15:21:
+
+> A palavra branda desvia o furor, mas a palavra dura suscita a ira.
+
+### "E eu achava que eu era tão óbvia!"
+
+E era.
+
+Eu sou extremamente lerdo.
+E é estranho, pois sou muito observador.
+No entanto, eu consegui deixar passar algo tão óbvio diante dos meus olhos.
+Mas não foi *apenas* deixar passar: foi deixar passar *com glória*!
+
+A menina gostava de mim.
+E demonstrava isso de todas as formas possíveis -- do jeito dela, que também é o meu jeito.
+Eu sempre via os avanços dela como formas de demonstrar uma grande amizade.
+Meu irmão até chegou a dizer pra mim "Mateus, eu fui pra cidade dela e a primeira coisa que ela me perguntou sem nem dizer 'oi' direito foi 'e o Mateus?'".
+
+Eu pensei "que legal, ela lembra de mim".
+E só isso.
+Não se passava pela minha cabeça que ela pensava em mim.
+Pensava *pensava* em mim.
+Só que pensou "ah, este é o irmão do Mateus, e como o Mateus é meu amigo, queria saber se ele está aqui".
+Só para explicar bem: eu sou uma pessoa que se apega bastante.
+Se eu faço amizade e alguém próximo do amigo está por perto, eu dou um jeito de falar do amigo.
+Pensei que no caso dela era a mesma coisa.
+E aprendi da pior forma que não era.
+
+Dois anos de amizade, estou conversando com ela sobre um amigo que apresentei para ela.
+Nada demais -- esse amigo queria conversar com ela porque comentei sobre uma mulher que achava muito gente fina e muito sábia, e ele se interessou.
+Claro, havia interesse em amizade e em "amizade", mas enfim...
+O ponto é que eu fiz os dois conversarem.
+E três meses depois pergunto para ela o que aconteceu com a conversa.
+Ela demonstrou desconforto e eu, inocente, pensei "poxa, ela ficou desconfortável porque achou que o cara só queria conversar para namorar!".
+Então eu pedi para que ela me dissesse o que a incomodava.
+"O que mais me deixou chateada foi que você me apresentou um cara -- que talvez quisesse algo mais que a amizade -- sabendo que eu gostava de você".
+
+Meu queixo caiu.
+Dois anos e eu não percebi nada.
+Tentei me desculpar.
+No final das contas, ela perdeu o interesse.
+
+Mantemos a amizade -- até porque ela não resiste à minha *gentefineza*.
+E também temos gostos e ideias parecidas.
+De vez em quando brigamos, mas sempre nos damos bem depois.
+
+A lição que vem disso tudo?
+Nunca apresente um amigo a alguém que pode talvez provavelmente com certeza estar a fim de você.
+
+### Castelo da Ilusão[^castelo-ilusao]
+
+[^castelo-ilusao]: Referência ao jogo do Mickey Mouse lançado para Mega Drive chamado [*Castle of Illusion starring Mickey Mouse*](https://sega.fandom.com/wiki/Castle_of_Illusion_Starring_Mickey_Mousehttps://sega.fandom.com/wiki/Castle_of_Illusion_Starring_Mickey_Mouse) no qual Mickey deve coletar 7 pedras preciosas para evitar que Mizrabel crie uma ilusão na qual ela é Minnie Mouse e Minnie Mouse é vista como uma mulher má.
+O que tem a ver com o texto?
+Lide com as ilusões para enxergar a verdade e evitar que você e outros vejam a realidade distorcida.
+
+- "Eu tenho que estudar, não vou namorar agora".
+- "Não quero me machucar, por isso não posso sair com você".
+- "Eu não sou madura para entrar num relacionamento".
+
+As famigeradas frases que podem até ser verdadeiras, mas não dá pra confiar muito quando a pessoa muda de opinião 60 vezes por minuto.
+
+Eu poderia falar sobre essas três situações e como as *mulheres* falharam comigo nisso, mas eu gostaria de colocar a culpa em mim neste texto -- até porque este texto é sobre *meus* erros, e não os erros dos outros.
+Quem sabe outro dia falo dos erros delas.
+
+Qual seria o problema em confiar nessas palavras?
+Simples: elas não são confiáveis.
+A menina que me disse "tenho que estudar" começou a namorar no primeiro ano da faculdade -- e inclusive o namoro atrapalhou os estudos, motivo dela "não querer namorar enquanto estudava";
+a que me disse que não era madura para entrar num relacionamento estava lá se arrastando por caras que nem ligavam pra ela;
+e a que disse "não quero me machucar" me ignorou e até foi inconveniente ao rejeitar uma generosidade minha porque "estava com outra pessoa" -- e se tem uma receita excelente para se machucar em relacionamento é desprezar quem te apoia e te ajuda mesmo que não tenha nada a receber da sua parte.
+
+O ponto é aquilo que a Bíblia diz: "*Maldito o homem que confia no homem*"[^maldito].
+As palavras confiadas, muitas vezes, não são confiáveis.
+E eu dei muito crédito para elas.
+Deixei de observar as atitudes, os desejos, as palavras.
+Aceitei as palavras como ela vieram ao invés de observar o que realmente estava acontecendo.
+Não percebi os sinais de que queriam, mas arrumaram a desculpa para que alguém viesse e dissesse "não se preocupe, eu vou te ajudar".
+"Não ser madura" significava "não quero algo agora, por favor espere".
+Tudo bem que num dos casos eu me propus a esperar e a pessoa apenas respondia "eu não sei se eu vou gostar de você", o que era sinal óbvio de imaturidade.
+Porém ela *queria* se envolver com alguém, só precisava ter a *garantia* de que isso a tornaria mais madura emocional e pessoalmente.
+
+[^maldito]: Jr 17:5
+
+E eu sei, o texto de Jeremias 17:5 não fala exatamente desta parte da palavra humana, mas faz o contraste com a palavra divina.
+E este é um dos pontos nos quais a palavra divina é perfeitamente confiável: aquilo que Deus diz é referente à sua pessoa.
+Deus se conhece perfeitamente, então tudo o que ele diz corresponde ao que ele é em perfeição.
+Nós não nos conhecemos perfeitamente.
+Portanto aquilo que falamos não é perfeitamente confiável.
+E eu aprendi a não prestar mais tanta atenção nas palavras.
+
+## O que se aprende disso tudo?
+
+Pare de errar.
+Sim, Deus perdoa.
+Eu creio num Deus que perdoa os nossos erros e nos ajuda a crescermos e alcançarmos algo que nós nunca imaginaríamos que iríamos alcançar.
+Portanto, é importante confessarmos no que erramos.
+Evitar justificar.
+
+Aliás, procure neste texto algum momento em que eu me justifiquei.
+Eu tive minhas causas para errar, mas em nenhum momento eu amenizei meus erros com uma justificativa.
+Eu apenas confirmo que errei.
+E sabendo que errei, eu posso caminhar para o acerto.
+
+Agora eu sei que devo ser grato quando alguém se propõe a me ajudar.
+Que devo respeitar aqueles que me conhecem quando dão um conselho, uma sugestão ou uma orientação.
+Que devo respeitar amigos e não me deixar levar pela ira.
+Que devo ter sempre em mente a justiça e evitar imputar mal caráter a alguém que não conheço nem a índole nem as atitudes e ações.
+Que devo procurar palavras melhores para me expressar.
+Que devo ser mais sensível aos sentimentos e tratamento de outra pessoa.
+Que devo parar de prestar atenção no que me dizem e prestar mais atenção naquilo que não me dizem.
+
+Posso continuar errando?
+Às vezes eu ainda erro nessas coisas.
+Porém é importante pensar que eu quero errar cada vez menos.
+Eu não quero aprender outras lições da mesma forma que aprendi estas lições.
+Sim, errando se aprende, mas eu gostaria de ter aprendido isso sem precisar errar.
+E você que lê este texto pode fazer isto.
+Você não precisa cometer os mesmos erros que eu cometi para aprender.
+Você tem as lições diante de você.
+Eu errei e aprendi.
+Aprenda e não erre.
