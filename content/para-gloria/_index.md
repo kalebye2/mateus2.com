@@ -53,12 +53,12 @@ E a sua risada...
 Na realidade, sua risada é muito gostosa de se ouvir.
 Sua voz no geral é boa de se ouvir.
 
-Eu nem vi seus vídeos cantando 20 vezes e já fico com as músicas na cabeça com a sua voz.
+Eu nem vi [seus vídeos](https://www.youtube.com/channel/UC3GY-4l9PAbxVSP5NMXsdZA) cantando 20 vezes e já fico com as músicas na cabeça com a sua voz.
 Como isso melhora o meu dia!
 As músicas que você canta têm letras incríveis, e eu ainda fico com elas na cabeça vindo na sua voz.
 Sim, muitas vezes acordo com uma música na cabeça na sua voz.
-*"Entregar os meus caminhos ao Senhor / Confiar nele e o mais ele fará / É fácil de cantar / Preciso entender / Posso viver feliz".*
-Ou então a lembrança de quão fora do comum é o amor de Deus com *"É extravagante / e não faz sentido / eu nunca entenderei / o quanto me amas"*.
+[*"Entregar os meus caminhos ao Senhor / Confiar nele e o mais ele fará / É fácil de cantar / Preciso entender / Posso viver feliz".*](https://www.youtube.com/watch?v=ZlTuQJ-XNjc)
+Ou então a lembrança de quão fora do comum é o amor de Deus com [*"É extravagante / e não faz sentido / eu nunca entenderei / o quanto me amas"*.](https://www.youtube.com/watch?v=G8w730Fj8CM)
 
 E sua *playlist*, eu gostei.
 Não sou de ficar ouvindo Taylor Swift ou Luan Santana, ou até mesmo Hillsong, mas as músicas são gostosas de ouvir.

@@ -91,6 +91,11 @@
 		color: var(--crimson-dark);
 	}
 
+	hr {
+		border-color: var(--crimson);
+		margin-bottom: 0;
+	}
+
 	.img-main {
 		border-radius: 50%;
 		position: relative;
@@ -145,7 +150,15 @@
 		margin: max(2rem, 5%);
 	}
 
+	.videos {
+		background: linear-gradient(to top, var(--bg-color), var(--bg-color-fade)), url("{{ index $img_p 2 | relURL }}"), linear-gradient(to bottom, #fde2e5ff, #fde2e500);
+		margin-top: 0;
+		padding-top: 0;
+	}
+
 	.video {
+		display: grid;
+		grid-template-columns: 50% 50%;
 		text-align: center;
 	}
 
@@ -154,6 +167,21 @@
 		margin: max(2rem, 5%);
 	}
 	
+	.gallery {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		align-items: stretch;
+	}
+
+	.poesia {
+		color: var(--crimson);
+		margin: 2rem;
+		font-size: 1.2rem;
+		background-color: #fafafa;
+		box-shadow: 0px 0px 10px #c0c0c0;
+	}
+
 	@media screen and (max-width: 850px) {
 		.hero {
 			grid-template-columns: 100%;
@@ -174,6 +202,10 @@
 			height: 60vh;
 			width: auto;
 		}
+
+		.video {
+			grid-template-columns: 100%;
+		}
 	}
 
 </style>
@@ -191,7 +223,7 @@
 	{{ .Content }}
 	</div>
 
-	<div>
+	<div class="gallery">
 		<div class="img img-interact">
 			<a href="{{ index $img_p 1 | relURL }}" target="_blank">
 				<img src="{{ index $img_p 1 | relURL }}" class="img-small" alt="">
@@ -205,11 +237,16 @@
 			</a>
 		</div>
 	</div>
-	
+	<hr>	
 	<div class="videos">
 		<div class="video" id="musica-gloria">
 			<div>
 				{{ partial "yt" . }}
+			</div>
+			<div class="poesia">
+				{{ with .GetPage "musica" }}
+					{{ .Content }}
+				{{ end }}
 			</div>
 			<a href="#musica-gloria-link">volta pro texto</a>
 		</div>
