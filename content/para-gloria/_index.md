@@ -67,7 +67,6 @@ Já adotei ela pra ser uma das minhas playlists também.
 
 Ah, inclusive eu gravei uma musiquinha pra você.
 Eu a compus aleatoriamente.
-Inclusive é o que ela mesma diz.
 O começo dela é "*Não queria compor nada pra você*".
 E com o tempo mostra-se por quê.
 Bom, você pode ver [por aqui](#musica-gloria)<span id="musica-gloria-link"></span> o vídeo (a qualidade do vídeo e do áudio estão um pouco ruins, mas dá pra entender a ideia eu acho).
@@ -79,7 +78,6 @@ Assim, eu até entendo por que você faria isso.
 Porém eu acho que é importante manter.
 Glória, a mensagem que eu te mandei que eu me arrependo profundamente de enviar eu deixo pra você apagar.
 Nossa história está começando.
-E mesmo que a gente vá pra caminhos diferentes -- o que eu não quero de jeito algum! --, é importante lembrarmos do que gostamos.
 Assim podemos crescer e sempre procurar por algo que nos agrada.
 
 Por muito tempo eu fiquei em fuga.
@@ -112,8 +110,7 @@ Sério, não enjoei de olhar pro seu rosto nenhum momento.
 Claro que no trabalho você praticamente vivia de máscara.
 Mas a primeira vez que eu vi seu rosto eu até comentei com a Ju: "pena que ela vive de máscara, senão daria pra ver mais o rosto dela".
 
-Glorinha querida, eu não estou te pedindo em namoro ainda.
-Novamente, sei das suas preocupações e não quero ser mais uma responsabilidade meio cuidada.
+Glorinha querida, sei das suas preocupações e não quero ser mais uma responsabilidade meio cuidada.
 Quero que você consiga lidar com suas responsabilidades com louvor diante de Deus e das pessoas.
 Você tem meu apoio em oração e em ações também.
 Conte com isso, por favor.
@@ -137,14 +134,12 @@ E quanto mais te conheci, mais gostei do que conheci.
 Confesso que eu falei pra Deus que se você quisesse só ficar e desse certo eu aceitaria -- mas ficar só no carinho, sem nada demais haha.
 No início era só um "ela é gata, vou me aproximar e ver no que dá".
 Agora eu escrevo texto, poesia e música pra você.
-E não quero mais ficar porque não sou carente, e creio que estou bem resolvido nessa questão emocional.
-Mas eu quero muito sair com você.
+Eu quero muito sair com você.
 E como você já combinou que iríamos sair, também estou tranquilo em relação a isto.
 
 Aliás, você comentou um dia que precisava organizar sua vida.
 Oro para que você a organize.
-E eu realmente me sinto um pouco mal quando penso que, talvez, você nunca mais queira me responder, ainda mais considerando que agora você não me vê mais no trabalho.
-Porém posso te garantir que, mesmo que você não fale comigo até o ano que vem, você continuará em minhas orações.
+Posso te garantir que, mesmo que você não fale comigo até o ano que vem, você continuará em minhas orações.
 Sim, eu tenho coisas pessoais a resolver também, e por isso não quero colocar pressão em você.
 Só quero que você saiba a verdade.
 Quando eu disse que ia sentir sua falta eu disse a verdade, porque hoje eu me conheço e sei o que gosto e o que quero.
