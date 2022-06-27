@@ -127,6 +127,7 @@ Até porque na realidade eu não sou o tipo de cara que fica procurando relacion
 Como eu já te disse, eu não vejo relacionamentos da mesma forma que a maioria das pessoas vê.
 Eu posso viver solteiro e tô de boa.
 Eu só penso em me envolver com alguém quando vejo que vale muito a pena.
+E você vale muito a pena.
 
 Por que você foi um milagre?
 Porque eu conversei uma vez com você e pensei "uau, quero conhecer mais essa menina".
