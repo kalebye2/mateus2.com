@@ -73,7 +73,6 @@ Bom, você pode ver [por aqui](#musica-gloria)<span id="musica-gloria-link"></sp
 
 Uma coisa que eu acho interessante em você é que você volta bastante atrás.
 Eu percebi que você apaga bastante mensagens.
-Também vi que você "descurtiu" uma mensagem que eu te mandei no Instagram.
 Assim, eu até entendo por que você faria isso.
 Porém eu acho que é importante manter.
 Glória, a mensagem que eu te mandei que eu me arrependo profundamente de enviar eu deixo pra você apagar.

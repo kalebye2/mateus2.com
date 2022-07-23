@@ -10,7 +10,7 @@ if (!empty($_POST) {
 
 	if (empty($name) || empty($email) || empty($message)) $errors[] = 'erro';
 
-	if (empty($errors) {
+	if (empty($errors)) {
 		$to_mail = 'kalebye2@protonmail.com';
 		$headers = [
 			'From' => $email,

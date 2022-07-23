@@ -4,17 +4,10 @@
 <div class="social">
 	<p style="margin:.3em;">{{ $sentences.social_networks }}</p>
 	{{ range (sort $.Site.Data.social "weight") }}
-	<a href="{{ .url }}" target="_blank"><img class="link-icon" src="/img/icon/{{ .name }}.png"></a>
+	<a href="{{ .url }}" target="_blank"><img class="link-icon" src="/img/icon/{{ .name }}.png" alt="{{ .name }}"></a>
 	{{ end }}
-	<!--
-	<a href="https://youtube.com/kalebyee" target="_blank"><img class="link-icon" src="/img/icon/youtube.png"></a>	
-	<a href="https://github.com/kalebye2" target="_blank"><img class="link-icon" src="/img/icon/github.png"></a>
-	<a href="https://br.linkedin.com/in/kalebye2" target="_blank"><img class="link-icon" src="/img/icon/linkedin.png"></a>
-	<a href="https://www.minds.com/kalebye2/" target="_blank"><img class="link-icon" src="/img/icon/minds.png"></a>
-	<a href="https://www.instagram.com/mtsbrgsrbr/" target="_blank"><img class="link-icon" src="/img/icon/instagram.png"></a>
-	-->
 
 </div>
 <!-- final -->
-<p style="font-size:.7em">{{ $sentences.powered }} <a href="https://gohugo.io" target="_blank"><img class="link-icon" style="display:inline;" src="/img/icon/hugo.png"></a></p>
+<p style="font-size:.7em">{{ $sentences.powered }} <a href="https://gohugo.io" target="_blank"><img class="link-icon" style="display:inline;" src="/img/icon/hugo.png" alt="Hugo"></a></p>
 <p>Mateus Borges Ribeiro, {{ now.Format "2006" }}</p>

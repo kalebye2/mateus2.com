@@ -606,6 +606,22 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
+.code {
+	background-color: var(--nav-blog-bg-hover);
+	word-wrap: break-word;
+	font-family: monospace;
+	text-align: left;
+	margin: 1em;
+	padding: 1em;
+	text-indent: 0px;
+}
+.code p {
+	text-indent: 0;
+}
+.code ul {
+	list-style-type: ">";
+}
+
 /* rewrites for small screens */
 @media screen and (max-width: 850px) {
 	body {
