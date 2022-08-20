@@ -1,4 +1,15 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
 {{ .Content }}
+
+<div class="grid-4">
+{{ range (sort .Site.Data.social "weight") }}
+<div class="grid-item cover">
+	<a href="{{ .url }}">
+		<img class="cover-img cover-img-blur" src="/img/icon/{{ .name }}.svg" alt="{{ .name }}">
+		<div class="cover-text">{{ .name }}</div>
+	</a>
+</div>
+{{ end }}
+</div>
 {{ end }}

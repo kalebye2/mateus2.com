@@ -1,0 +1,10 @@
+@font-face {
+	font-family: miriam;
+	src: url(Miriam_Libre_Regular.woff);
+}
+
+@font-face {
+	font-family: miriam;
+	src: url(Miriam_Libre_Bold.woff);
+	font-weight: bold;
+}

@@ -8,7 +8,7 @@ cover-from-title: "Pixabay"
 cover-from-site: "https://pixabay.com/photos/vote-sign-voting-choice-election-661888/"
 slug: ""
 description: "Por que o sistema eleitoral não deve ser confiado"
-tags: [política, software]
+tags: [política, software, psicologia, massas]
 images: [""]
 keywords: [""]
 ---

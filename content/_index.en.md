@@ -32,5 +32,5 @@ If I finish a hard puzzle and be happy about it I can post on the blog.
 If I want to post a "lorem ipsum" every week I post it.
 Of course, maintaining the professionalism of who is sending this site to who can hire me, present me to hire or - who knows - at least be a little more happy visiting this place.
 
-Be free to se what I can show and, if you will, you can also [contact me](mailto:kalebye2@proton.me) to talk.
+Be free to se what I can show and, if you will, you can also [contact me](/en/contact) to talk.
 Enjoy the idea!

@@ -2,6 +2,4 @@
 title: "Contact"
 ---
 
-Email: **kalebye2 (at) proton.me**
-
-LinkedIn: [kalebye2](https://br.linkedin.com/in/kalebye2)
+Feel free to contact me in one of the addresses below.

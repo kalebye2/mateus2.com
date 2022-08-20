@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1280"
+   height="1280"
+   viewBox="0 0 1280 1280"
+   version="1.1"
+   id="svg269"
+   sodipodi:docname="minds.svg"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs273">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter27671"
+       x="-0.39350144"
+       y="-0.39350144"
+       width="1.7870029"
+       height="1.7870029">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="139.72457"
+         id="feGaussianBlur27673" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview271"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.14466226"
+     inkscape:cx="504.62366"
+     inkscape:cy="680.8963"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg269" />
+  <title
+     id="title223">bulb</title>
+  <rect
+     style="fill:#bababa;fill-opacity:1;stroke-width:44.2084;stroke-linecap:round;paint-order:markers stroke fill"
+     id="rect27221"
+     width="1280"
+     height="1280"
+     x="0"
+     y="0" />
+  <circle
+     style="mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;stroke-width:1.6;stroke-linecap:round;paint-order:markers stroke fill;filter:url(#filter27671)"
+     id="path27669"
+     cx="640"
+     cy="550"
+     r="426.09622" />
+  <g
+     id="Existing"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd"
+     transform="matrix(11.242827,0,0,11.242827,298.22548,188.80939)">
+    <g
+       id="01-Web-Large-[Dark]"
+       transform="translate(-613,-701)"
+       fill-rule="nonzero">
+      <g
+         id="bulb"
+         transform="translate(613,701)">
+        <g
+           id="Group-5"
+           transform="translate(21,59)">
+          <path
+             d="M 4.950495,8.3902439 4.5544554,14.04878 Z"
+             id="Triangle-3"
+             fill="#656565" />
+          <polygon
+             id="polygon226"
+             fill="#656565"
+             points="0,12.097561 5,8 10,16 " />
+          <polygon
+             id="polygon228"
+             fill="#787778"
+             points="0,0 0,12.097561 5,8 " />
+          <polygon
+             id="polygon230"
+             fill="#5c5c5c"
+             points="15,8 10,16 20,12.097561 " />
+          <polygon
+             id="polygon232"
+             fill="#787778"
+             points="20,12.097561 15,8 20,0 " />
+          <polygon
+             id="polygon234"
+             fill="#4a4a4a"
+             points="0,0 20,0 10,16 " />
+        </g>
+        <g
+           id="Group">
+          <polygon
+             id="polygon237"
+             fill="#fed12f"
+             points="22.346535,20.241692 43.686469,29.148036 28.386139,41.495468 " />
+          <polygon
+             id="polygon239"
+             fill="#fed12f"
+             points="38.452145,5.2628399 50.531353,17.812689 43.686469,29.148036 " />
+          <polygon
+             id="polygon241"
+             fill="#fed12f"
+             points="20.333333,58.498489 42.478548,52.021148 40.465347,58.498489 " />
+          <polygon
+             id="polygon243"
+             fill="#fed12f"
+             points="18.320132,52.021148 28.386139,41.495468 20.333333,58.498489 " />
+          <polygon
+             id="polygon245"
+             fill="#fed12f"
+             points="10.267327,17.812689 22.346535,5.2628399 22.346535,20.241692 " />
+          <polygon
+             id="polygon247"
+             fill="#fff3cb"
+             points="28.386139,41.495468 42.478548,52.021148 43.686469,29.148036 " />
+          <polygon
+             id="polygon249"
+             fill="#fff3cb"
+             transform="rotate(140,18.513263,40.990373)"
+             points="11.27487,34.257284 23.868118,49.316295 25.751655,32.66445 " />
+          <polygon
+             id="polygon251"
+             fill="#ffdd63"
+             transform="rotate(-53,37.808596,18.335541)"
+             points="26.980975,7.13414 48.636217,10.982154 32.710745,29.536941 " />
+          <polygon
+             id="polygon253"
+             fill="#ffedac"
+             transform="rotate(-53,22.693392,34.415697)"
+             points="11.582273,25.716926 33.804512,25.608555 20.465216,43.222839 " />
+          <polygon
+             id="polygon255"
+             fill="#ffdd63"
+             transform="rotate(-53,29.887967,54.115944)"
+             points="20.637788,49.122756 39.063304,45.321338 39.138146,62.910549 " />
+          <polygon
+             id="polygon257"
+             fill="#ffdd63"
+             transform="rotate(-53,43.082508,40.584592)"
+             points="33.585396,46.984939 52.57962,34.184245 50.312997,45.975473 " />
+          <polygon
+             id="polygon259"
+             fill="#ffdd63"
+             transform="rotate(-53,11.267071,25.805347)"
+             points="0.15595139,31.41388 17.04863,20.196814 22.378191,31.305509 " />
+          <polygon
+             id="polygon261"
+             fill="#fee382"
+             transform="rotate(-53,51.135314,27.933535)"
+             points="45.682543,22.715528 58.854708,21.360313 43.415919,34.506756 " />
+          <polygon
+             id="polygon263"
+             fill="#fef1c0"
+             transform="rotate(160,29.457341,10.164144)"
+             points="19.328644,11.693459 39.586037,3.1263859 34.462968,17.201902 " />
+        </g>
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata379">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>bulb</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

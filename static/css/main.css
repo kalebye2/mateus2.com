@@ -2,31 +2,6 @@ html {
 	scroll-behavior: smooth;
 }
 
-/* fonts */
-/* miriam libre */
-@font-face {
-	font-family: miriam;
-	src: url(/font/Miriam_Libre_Regular.woff);
-}
-
-@font-face {
-	font-family: miriam;
-	src: url(/font/Miriam_Libre_Bold.woff);
-	font-weight: bold;
-}
-
-/* montserrat */
-@font-face {
-	font-family: montserrat;
-	src: url(/font/Montserrat-Regular.woff);
-}
-
-@font-face {
-	font-family: montserrat;
-	src: url(/font/Montserrat-Black.woff);
-	font-weight: bold;
-}
-
 
 /* main variables */
 :root {
@@ -158,7 +133,7 @@ body {
 	margin: 0px;
 	background: var(--background);
 	font-size: 1.3rem;
-	font-family: "miriam", sans-serif;
+	font-family: "Ubuntu", "miriam", sans-serif;
 
 	transition: var(--default-transition-time) ease-out;
 }
@@ -195,8 +170,8 @@ ul {
 
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: "montserrat", sans-serif;
-	weight: bold;
+	font-family: "montserrat","Ubuntu", sans-serif;
+	font-weight: bold;
 }
 
 
@@ -423,6 +398,8 @@ h1, h2, h3, h4, h5, h6 {
 	border-radius: .3em;
 	display: inline-block;
 	color: var(--nav-bg);
+	opacity: .3;
+	filter: grayscale(1);
 
 	transition: 320ms ease-out;
 }
@@ -431,6 +408,8 @@ h1, h2, h3, h4, h5, h6 {
 	color: var(--a-hover);
 	background-color: var(--nav-bg);
 	transform: scale(1.1);
+	opacity: 1;
+	filter: grayscale(0);
 }
 
 .cover {
@@ -446,6 +425,14 @@ h1, h2, h3, h4, h5, h6 {
 .cover:hover .cover-img {
 	/* opacity: .5; */
 	transform: scale(1.1);
+}
+
+.cover-img-blur {
+	opacity: .25;
+}
+
+.cover:hover .cover-img-blur {
+	opacity: 1;
 }
 
 .cover-text {
