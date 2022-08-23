@@ -2,6 +2,7 @@
 <head>
 	{{ partial "head.html" . }}
 	{{ partial "style.html" . }}
+	<script defer src="/js/theme-switcher.js"></script>
 </head>
 
 <body class="dark">
@@ -34,11 +35,10 @@
 		{{/* {{ partial "main-pages.html" . }} */}}
 		{{ partial "main-pages-alt.html" . }}
 	{{ end }}
-	<hr>
+	<!-- <hr> -->
 	<div class="footer">
 		{{ block "footer" . }}{{ end }}
 		{{ partial "footer.html" . }}
 	</div>
 </body>
-<script src="/js/theme-switcher.js"></script>
 </html>

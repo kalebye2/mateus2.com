@@ -7,7 +7,7 @@
    viewBox="0 0 297 210"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
    sodipodi:docname="palette.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,15 +23,17 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.60020034"
-     inkscape:cx="300.73292"
-     inkscape:cy="480.67284"
+     inkscape:zoom="1.2004007"
+     inkscape:cx="670.60942"
+     inkscape:cy="344.46832"
      inkscape:window-width="1366"
      inkscape:window-height="705"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2" />
   <g
@@ -134,14 +136,14 @@
        id="rect4783"
        width="11.745443"
        height="10.160684"
-       x="75.904732"
+       x="90.256363"
        y="74.359871" />
     <rect
-       style="fill:#270521;fill-opacity:1;stroke:none;stroke-width:2.70637;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       style="fill:#640b49;fill-opacity:1;stroke:none;stroke-width:2.70637;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
        id="rect4785"
        width="11.745443"
        height="10.160684"
-       x="90.256363"
+       x="75.904732"
        y="74.359871" />
     <rect
        style="fill:#b34693;fill-opacity:1;stroke:none;stroke-width:2.70637;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
@@ -417,14 +419,14 @@
        id="rect49426"
        width="11.745443"
        height="10.160684"
-       x="175.24313"
+       x="189.59477"
        y="74.359871" />
     <rect
-       style="fill:#270521;fill-opacity:1;stroke:none;stroke-width:2.70637;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       style="fill:#640b49;fill-opacity:1;stroke:none;stroke-width:2.70637;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
        id="rect49428"
        width="11.745443"
        height="10.160684"
-       x="189.59477"
+       x="175.24313"
        y="74.359871" />
     <rect
        style="fill:#b34693;fill-opacity:1;stroke:none;stroke-width:2.70637;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"

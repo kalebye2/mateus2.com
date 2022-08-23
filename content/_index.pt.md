@@ -8,8 +8,11 @@ keywords: ["mateus", "site", "website", "portfolio", "blog"]
 
 ## Bem-vindo!
 
+<div class="grid-2">
+<div>
 {{< image src="/img/porta.jpg" style="float:left;max-height:50vh;max-width:50vw;margin:2em;border-radius:1rem;" >}}
-
+</div>
+<div>
 Um artista?
 Um cientista?
 Um filósofo?
@@ -34,4 +37,5 @@ Se eu quiser colocar um "lorem ipsum" toda semana eu coloco.
 
 Fique livre para ver o que tenho para mostrar e, caso deseje, pode também entrar em [contato](/contact) comigo para conversar.
 Aproveite a ideia!
-
+</div>
+</div>

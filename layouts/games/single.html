@@ -12,10 +12,9 @@
 
 {{ partial "categories.html" . }}
 {{ partial "softwares.html" . }}
-	<hr>
 
 
-	<div style="text-align:center;">
+	<div style="text-align:center;margin-top:2em;">
 	{{ if .Param "itch" }}
 		{{ partial "itch" . }}
 	{{ end }}
@@ -27,7 +26,6 @@
 	{{ end }}
 	</div>
 
-	<hr>
 	<!-- pages navigator -->
 	{{ partial "site-pages-navigator.html" . }}
 {{ end }}

@@ -21,18 +21,16 @@
 
 <div class="blog-content">
 	{{ .Content }}
-	<hr>
 </div>
 
-	<div class="toc">
-		<p>{{ $sentences.toc }}</p>
-		{{ .TableOfContents }}
+<a href="javascript:void(0);"><div class="toc"><</a>
+		<div class="toc-content">
+			<p><strong>{{ $sentences.toc }}</strong></p>
+			{{ .TableOfContents }}
+		</div>
 	</div>
-<hr>
 {{ partial "tags.html" . }}
-<hr>
 {{ partial "prev-next.html" . }}
-<hr>
 
 {{ $p := . }}
 
