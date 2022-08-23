@@ -1,1 +1,1 @@
-rm -r public & hugo -F --minify
+rm -rf public && hugo -F --minify
