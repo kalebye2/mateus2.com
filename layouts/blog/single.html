@@ -11,12 +11,14 @@
 <p style="font-size:.7em;">{{ $sentences.reading_time }} {{ .ReadingTime }}min</p>
 
 {{ if $c }}
+<div class="blog-img-container">
 <div class="blog-img">
 <img src="/img/cover/{{ $c }}.jpg" style="display:flex;width:100%;">
 </div>
 {{ end }}
 {{ if and $ct $cs }}
-<div style="position:static;font-size:.7rem;text-align:right;z-index:1;bottom:10px;right:5px;background-color:var(--medium-green);padding:.5em;"><a href="{{ $cs }}" target="_blank" style="color:white;">{{ $ct }}</a></div>
+<div class="blog-img-desc"><a href="{{ $cs }}" target="_blank" style="color:white;">{{ $ct }}</a></div>
+</div>
 {{ end }}
 
 <div class="blog-content">
