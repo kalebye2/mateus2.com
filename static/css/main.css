@@ -128,14 +128,12 @@ html {
 }
 
 ::selection {
-	color: var(--color);
-	background: var(--nav-bg);
-
+	color: var(--nav-bg);
+	background: var(--color);
 }
 ::-moz-selection {
-	color: var(--color);
-	background: var(--nav-bg);
-
+	color: var(--nav-bg);
+	background: var(--color);
 }
 
 /* main elements */
