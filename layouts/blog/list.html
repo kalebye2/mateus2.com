@@ -8,7 +8,7 @@
 {{ range .Pages }}
 <li><a href="{{ .Permalink }}">
 		<div class="blog-list-item">
-			<div class="grid-item" style="margin-right:1em;"><img src="/img/cover/{{ .Param "cover" }}.jpg" style="max-width:100%;float:left;"></div>
+			<div class="grid-item" style="margin-right:1em;"><img class="blog-img-list" src="/img/cover/{{ .Param "cover" }}-low.jpg" style="max-width:100%;float:left;"></div>
 			<div class="grid-item"><span style="text-align:left;"><strong style="font-size:1.4em;">{{ .Title }}</strong> - <span style="font-size:.8em;color:var(--subtitle-color);">{{ dateFormat ":date_medium" .Date }}</span></span><br /><p style="font-weight:normal;color:var(--color);text-align:justify;">{{ .Summary }}</p></div>
 		</div>
 	</a></li>

@@ -13,7 +13,7 @@
 {{ if $c }}
 <div class="blog-img-container">
 <div class="blog-img">
-<img src="/img/cover/{{ $c }}.jpg" style="display:flex;width:100%;">
+<img src="/img/cover/{{ $c }}-low.jpg" style="display:flex;width:100%;">
 </div>
 {{ end }}
 {{ if and $ct $cs }}
@@ -25,7 +25,7 @@
 	{{ .Content }}
 </div>
 
-<a href="javascript:void(0);"><div class="toc"><</a>
+<div class="toc"><a href="javascript:void(0);"><strong><</strong></a>
 		<div class="toc-content">
 			<p><strong>{{ $sentences.toc }}</strong></p>
 			{{ .TableOfContents }}

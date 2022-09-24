@@ -3,9 +3,11 @@
 	{{ partial "head.html" . }}
 	{{ partial "style.html" . }}
 	<script defer src="/js/theme-switcher.js"></script>
+	<script defer src="/js/img-lazy-loader.js"></script>
 </head>
 
-<body class="dark">
+<body class="">
+	<script src="/js/theme-loader.js"></script>
 	<!-- header -->
 	<div class="header">
 		{{ partial "header.html" . }}
@@ -33,7 +35,7 @@
 
 	{{ if .IsHome }}
 		{{/* {{ partial "main-pages.html" . }} */}}
-		{{ partial "main-pages-alt.html" . }}
+		{{/* partial "main-pages-alt.html" . */}}
 	{{ end }}
 	<!-- <hr> -->
 	<div class="footer">

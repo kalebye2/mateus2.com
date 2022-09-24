@@ -29,7 +29,7 @@
 			<a href="{{ .Permalink }}" class="grid-item cover" style="overflow:hidden;margin:.3rem;">
 			{{ $ext := "png" }}
 			{{ if (eq .Type "blog") }} {{ $ext = "jpg" }} {{ end }}
-			<img src="/img/cover/{{ .Params.cover }}.{{ $ext }}" class="cover-img" style="width:33vw;">
+			<img src="/img/cover/{{ .Params.cover }}-low.{{ $ext }}" class="cover-img" style="width:33vw;">
 			<div class="cover-text">{{ .Title }}</div>
 		</a>
 		{{ end }}

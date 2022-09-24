@@ -1,0 +1,6 @@
+convert cover/*[!-low].jpg -resize 150x150 -set filename:base "%[basename]" "cover/%[filename:base]-low.jpg"
+convert cover/*[!-low].png -resize 150x150 -set filename:base "%[basename]" "cover/%[filename:base]-low.png"
+convert ./*[!-low].jpg -resize 150x150 -set filename:base "%[basename]" "%[filename:base]-low.png"
+convert ./*[!-low].png -resize 150x150 -set filename:base "%[basename]" "%[filename:base]-low.png"
+#convert menu/*[!-low].jpg -resize 150x150 -set filename:base "%[basename]" "%[filename:base]-low.png"
+convert menu/*[!-low].png -resize 150x150 -set filename:base "%[basename]" "%[filename:base]-low.png"

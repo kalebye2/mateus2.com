@@ -5,7 +5,7 @@
 		{{ if not (or (eq .URL "/") (eq .URL "/about")) }}
 		<a href="{{ .URL | relLangURL }}">
 			<div class="navmenu-item {{ $u }}">
-				<img class="nav-image" src="/img/menu/{{ $u }}.png" alt="{{ .Name }}" title="{{ .Name }}" />
+				<img class="nav-image" src="/img/menu/{{ $u }}-low.png" alt="{{ .Name }}" title="{{ .Name }}" />
 				<h1>{{ .Name }}</h1>
 			</div>
 		</a>
