@@ -1,3 +1,4 @@
+#! /bin/bash
 # build main site
 rm -rf public && hugo -F --minify
 
