@@ -1,10 +1,20 @@
 {{ define "main" }}
+	<div style="max-height:500px;">
 	{{ if .Param "yt" }}
 		<!-- youtube video -->
-	<div style="max-height:500px;">
 		{{ partial "yt" . }}
-	</div>
 	{{ end }} <br /> <br />
+
+	{{ if .Param "vimeo" }}
+		{{ partial "vimeo" . }}
+	{{ end }}
+
+	{{ if .Param "behance" }}
+		<a href="https://www.behance.net/gallery/{{ .Param "behance" }}" target="_blank">
+			<img src="/img/icon/behance.svg" id="behance-logo" />
+		</a>
+	{{ end }}
+	</div>
 
 	{{ partial "categories.html" . }}
 

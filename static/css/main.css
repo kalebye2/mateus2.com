@@ -744,6 +744,20 @@ body:hover #mouse-highlight {
 }
 
 
+#behance-logo {
+	display: flex;
+	width: 15rem;
+	height: auto;
+	opacity: .7;
+	margin: auto;
+	content-align: center;
+
+	transition: opacity 300ms ease-out;
+}
+#behance-logo:hover {
+	opacity: 1;
+}
+
 /* rewrites for small screens */
 @media screen and (max-width: 850px) {
 	body {
